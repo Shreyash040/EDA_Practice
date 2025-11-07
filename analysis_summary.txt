@@ -1,0 +1,32 @@
+DATA ANALYSIS SUMMARY
+================================================================================
+
+Dataset: vulnerability_data.csv
+Shape: 1000 rows × 15 columns
+
+Columns:
+  - CVE_ID (object)
+  - Severity (object)
+  - CVSS_Score (float64)
+  - Vendor (object)
+  - Product (object)
+  - Vulnerability_Type (object)
+  - Published_Date (object)
+  - Last_Modified (object)
+  - Status (object)
+  - Exploitability (float64)
+  - Impact_Score (float64)
+  - Affected_Systems (int64)
+  - Patch_Available (object)
+  - Days_Since_Publication (int64)
+  - Priority_Score (float64)
+
+        CVSS_Score  Exploitability  Impact_Score  Affected_Systems  Days_Since_Publication  Priority_Score
+count  1000.000000     1000.000000   1000.000000        1000.00000             1000.000000     1000.000000
+mean      5.901800        5.488800      5.431500        5018.11600              353.947000        6.865850
+std       2.743093        2.606505      2.603997        2892.15331              211.061686        1.416491
+min       0.200000        1.100000      1.000000          12.00000                0.000000        2.460000
+25%       4.000000        3.200000      3.200000        2527.50000              171.000000        5.917500
+50%       6.200000        5.400000      5.400000        5019.50000              346.000000        6.930000
+75%       8.125000        7.700000      7.800000        7508.50000              543.000000        7.892500
+max      10.000000       10.000000     10.000000        9988.00000              729.000000        9.970000

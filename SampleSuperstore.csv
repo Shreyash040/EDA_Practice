@@ -1,0 +1,1001 @@
+Order_ID,Order_Date,Ship_Date,Ship_Mode,Customer_ID,Customer_Name,Segment,Region,Category,Sub_Category,Product_Name,Sales,Quantity,Discount,Profit
+ORD-93810,2023-02-19,2023-02-22,First Class,CUS-5415,Customer_0,Corporate,South,Furniture,Chairs,Chairs_627,1209.33,7,0.3,257.17
+ORD-24592,2025-01-02,2025-01-09,Same Day,CUS-1659,Customer_1,Home Office,East,Technology,Phones,Phones_418,643.15,8,0.15,51.35
+ORD-13278,2025-03-13,2025-03-15,Standard Class,CUS-3870,Customer_2,Consumer,East,Office Supplies,Art,Art_513,487.34,10,0.25,28.52
+ORD-46048,2023-10-01,2023-10-08,First Class,CUS-8708,Customer_3,Consumer,East,Technology,Phones,Phones_277,149.13,7,0.15,9.53
+ORD-42098,2024-09-08,2024-09-13,First Class,CUS-9502,Customer_4,Consumer,West,Technology,Computers,Computers_957,3699.04,10,0.15,842.76
+ORD-39256,2024-08-09,2024-08-11,Same Day,CUS-8245,Customer_5,Consumer,South,Technology,Computers,Computers_133,3854.57,3,0.1,1284.32
+ORD-28289,2023-09-30,2023-10-04,Standard Class,CUS-5557,Customer_6,Consumer,East,Furniture,Chairs,Chairs_469,806.6,8,0.25,44.92
+ORD-23434,2025-09-27,2025-10-01,Standard Class,CUS-3973,Customer_7,Consumer,South,Office Supplies,Binders,Binders_380,339.06,9,0.3,31.4
+ORD-98696,2025-08-25,2025-08-28,First Class,CUS-8141,Customer_8,Consumer,West,Furniture,Furnishings,Furnishings_617,369.49,7,0.25,61.08
+ORD-81482,2025-08-22,2025-08-23,Second Class,CUS-9056,Customer_9,Corporate,East,Furniture,Chairs,Chairs_797,845.44,9,0.1,295.77
+ORD-21395,2023-05-11,2023-05-15,First Class,CUS-2494,Customer_10,Home Office,Central,Technology,Computers,Computers_481,3950.11,8,0.25,25.45
+ORD-87397,2025-09-08,2025-09-12,First Class,CUS-8700,Customer_11,Consumer,West,Furniture,Furnishings,Furnishings_281,2607.59,7,0.25,324.83
+ORD-65302,2024-03-15,2024-03-17,First Class,CUS-6700,Customer_12,Corporate,Central,Furniture,Bookcases,Bookcases_452,1864.61,6,0.0,401.89
+ORD-14165,2024-10-30,2024-10-31,First Class,CUS-7690,Customer_13,Corporate,South,Technology,Accessories,Accessories_866,2558.85,4,0.0,920.54
+ORD-13905,2023-02-19,2023-02-22,Same Day,CUS-6460,Customer_14,Home Office,South,Office Supplies,Paper,Paper_391,88.06,3,0.25,10.37
+ORD-22280,2025-08-17,2025-08-22,Standard Class,CUS-6260,Customer_15,Consumer,West,Technology,Copiers,Copiers_150,362.39,7,0.0,48.3
+ORD-38657,2025-06-28,2025-07-01,Same Day,CUS-2713,Customer_16,Home Office,South,Technology,Computers,Computers_977,632.36,10,0.25,104.55
+ORD-40495,2022-11-24,2022-12-01,Same Day,CUS-3634,Customer_17,Consumer,Central,Technology,Computers,Computers_793,1175.42,1,0.1,330.57
+ORD-76237,2023-06-16,2023-06-20,Same Day,CUS-6403,Customer_18,Corporate,East,Technology,Accessories,Accessories_767,1741.29,10,0.3,-85.56
+ORD-88907,2023-08-09,2023-08-12,First Class,CUS-7744,Customer_19,Corporate,East,Furniture,Chairs,Chairs_985,1204.64,8,0.1,370.65
+ORD-13478,2024-11-26,2024-12-03,Second Class,CUS-9117,Customer_20,Corporate,East,Office Supplies,Paper,Paper_585,179.7,4,0.15,14.52
+ORD-83563,2025-02-10,2025-02-13,Standard Class,CUS-5722,Customer_21,Corporate,West,Technology,Computers,Computers_715,1233.32,9,0.1,265.93
+ORD-36062,2023-02-08,2023-02-12,Second Class,CUS-7561,Customer_22,Home Office,South,Technology,Computers,Computers_358,2573.14,5,0.25,256.64
+ORD-95181,2023-02-20,2023-02-25,Same Day,CUS-1601,Customer_23,Consumer,Central,Office Supplies,Pens,Pens_829,414.39,7,0.0,130.9
+ORD-81426,2023-12-11,2023-12-14,Same Day,CUS-8451,Customer_24,Consumer,South,Office Supplies,Pens,Pens_533,147.05,9,0.3,9.02
+ORD-64987,2024-06-21,2024-06-22,Second Class,CUS-2442,Customer_25,Home Office,South,Furniture,Bookcases,Bookcases_570,2832.92,10,0.0,1022.48
+ORD-38893,2025-01-07,2025-01-12,Second Class,CUS-6153,Customer_26,Consumer,South,Furniture,Tables,Tables_577,2632.68,6,0.1,708.58
+ORD-68878,2025-05-18,2025-05-25,Second Class,CUS-5135,Customer_27,Corporate,East,Furniture,Furnishings,Furnishings_698,569.12,1,0.25,96.36
+ORD-87236,2024-06-02,2024-06-09,Same Day,CUS-6296,Customer_28,Consumer,Central,Technology,Phones,Phones_623,3942.07,1,0.3,744.55
+ORD-46463,2023-07-09,2023-07-11,Same Day,CUS-2899,Customer_29,Corporate,Central,Office Supplies,Pens,Pens_674,291.55,10,0.2,65.95
+ORD-10851,2023-05-25,2023-05-29,Standard Class,CUS-7622,Customer_30,Home Office,South,Office Supplies,Art,Art_723,287.62,8,0.15,10.29
+ORD-30926,2024-12-11,2024-12-18,Standard Class,CUS-9431,Customer_31,Consumer,East,Furniture,Bookcases,Bookcases_800,1234.02,6,0.3,84.43
+ORD-65392,2024-10-02,2024-10-07,Same Day,CUS-1018,Customer_32,Home Office,East,Technology,Copiers,Copiers_165,2530.71,2,0.25,643.41
+ORD-54597,2024-11-25,2024-12-02,Second Class,CUS-9889,Customer_33,Consumer,Central,Furniture,Bookcases,Bookcases_755,1251.82,10,0.1,109.81
+ORD-46421,2023-08-30,2023-09-01,Second Class,CUS-8569,Customer_34,Corporate,East,Furniture,Bookcases,Bookcases_367,1665.22,8,0.2,368.23
+ORD-30379,2025-09-15,2025-09-19,Standard Class,CUS-7770,Customer_35,Home Office,East,Office Supplies,Pens,Pens_292,317.7,2,0.3,77.0
+ORD-38221,2025-08-28,2025-08-29,Same Day,CUS-1888,Customer_36,Consumer,East,Technology,Computers,Computers_158,3387.8,3,0.0,391.83
+ORD-54118,2023-02-08,2023-02-09,Standard Class,CUS-4073,Customer_37,Corporate,West,Office Supplies,Storage,Storage_776,270.92,9,0.1,68.99
+ORD-23396,2023-08-15,2023-08-21,Standard Class,CUS-9494,Customer_38,Home Office,South,Furniture,Tables,Tables_838,2192.12,5,0.15,362.68
+ORD-22156,2024-09-20,2024-09-27,First Class,CUS-6927,Customer_39,Home Office,Central,Technology,Copiers,Copiers_402,749.33,8,0.2,130.2
+ORD-59797,2025-07-05,2025-07-10,First Class,CUS-9167,Customer_40,Consumer,Central,Furniture,Furnishings,Furnishings_514,714.75,9,0.2,18.3
+ORD-22676,2025-05-31,2025-06-02,First Class,CUS-8242,Customer_41,Consumer,West,Furniture,Chairs,Chairs_697,2474.33,2,0.1,155.64
+ORD-57052,2025-09-28,2025-09-30,Second Class,CUS-1845,Customer_42,Consumer,South,Office Supplies,Art,Art_935,168.04,9,0.25,29.42
+ORD-55082,2024-09-09,2024-09-14,Same Day,CUS-4335,Customer_43,Corporate,Central,Technology,Accessories,Accessories_843,163.32,10,0.1,48.5
+ORD-89131,2024-08-21,2024-08-23,Same Day,CUS-5375,Customer_44,Consumer,East,Office Supplies,Binders,Binders_802,85.36,2,0.2,20.03
+ORD-44671,2025-01-20,2025-01-25,Same Day,CUS-9998,Customer_45,Home Office,Central,Office Supplies,Storage,Storage_787,119.57,4,0.0,31.46
+ORD-15695,2024-07-12,2024-07-17,Same Day,CUS-3146,Customer_46,Home Office,East,Furniture,Bookcases,Bookcases_965,2876.24,8,0.15,158.08
+ORD-70217,2024-09-26,2024-10-01,First Class,CUS-5719,Customer_47,Consumer,West,Technology,Computers,Computers_400,2886.56,2,0.0,884.48
+ORD-80284,2025-09-16,2025-09-21,Second Class,CUS-8178,Customer_48,Consumer,East,Technology,Copiers,Copiers_231,4667.02,9,0.2,338.67
+ORD-26361,2025-08-07,2025-08-13,Second Class,CUS-8941,Customer_49,Home Office,Central,Office Supplies,Pens,Pens_842,291.83,10,0.0,108.95
+ORD-59615,2024-07-13,2024-07-17,First Class,CUS-2989,Customer_50,Corporate,Central,Office Supplies,Binders,Binders_796,244.88,5,0.25,55.46
+ORD-20328,2022-12-12,2022-12-15,Second Class,CUS-1472,Customer_51,Consumer,Central,Furniture,Chairs,Chairs_327,1009.81,10,0.1,265.39
+ORD-82357,2024-09-16,2024-09-22,First Class,CUS-4920,Customer_52,Consumer,West,Furniture,Tables,Tables_862,1858.48,1,0.2,529.02
+ORD-48427,2023-06-20,2023-06-24,Same Day,CUS-3594,Customer_53,Home Office,West,Furniture,Furnishings,Furnishings_907,503.67,6,0.15,17.34
+ORD-92397,2024-07-30,2024-08-06,First Class,CUS-6091,Customer_54,Consumer,South,Furniture,Bookcases,Bookcases_366,2704.96,9,0.3,462.17
+ORD-91070,2023-01-01,2023-01-06,Same Day,CUS-1224,Customer_55,Corporate,Central,Office Supplies,Pens,Pens_574,416.37,1,0.15,51.66
+ORD-57400,2025-07-06,2025-07-09,Same Day,CUS-7684,Customer_56,Home Office,East,Technology,Copiers,Copiers_154,1621.78,8,0.25,400.29
+ORD-85674,2024-02-17,2024-02-23,Standard Class,CUS-2527,Customer_57,Consumer,West,Office Supplies,Art,Art_694,476.87,8,0.3,14.31
+ORD-35203,2023-02-21,2023-02-26,First Class,CUS-4681,Customer_58,Home Office,Central,Office Supplies,Paper,Paper_583,414.35,9,0.0,131.54
+ORD-19116,2025-07-18,2025-07-20,Standard Class,CUS-2858,Customer_59,Consumer,Central,Technology,Phones,Phones_988,3348.22,8,0.0,1216.39
+ORD-16006,2025-10-16,2025-10-22,First Class,CUS-8560,Customer_60,Consumer,West,Office Supplies,Storage,Storage_642,69.66,10,0.15,2.61
+ORD-96673,2024-12-25,2024-12-27,First Class,CUS-2924,Customer_61,Consumer,South,Furniture,Furnishings,Furnishings_155,1486.88,6,0.2,177.38
+ORD-39871,2024-03-18,2024-03-19,Standard Class,CUS-3522,Customer_62,Corporate,West,Technology,Computers,Computers_305,2555.23,7,0.0,839.89
+ORD-47930,2023-06-21,2023-06-23,Standard Class,CUS-9165,Customer_63,Corporate,West,Furniture,Furnishings,Furnishings_683,774.4,6,0.2,105.69
+ORD-20458,2022-12-16,2022-12-20,First Class,CUS-5781,Customer_64,Home Office,East,Furniture,Tables,Tables_423,331.9,5,0.15,34.91
+ORD-40512,2024-08-11,2024-08-15,Second Class,CUS-9337,Customer_65,Consumer,East,Office Supplies,Binders,Binders_897,390.59,5,0.2,25.76
+ORD-23238,2023-09-14,2023-09-18,Same Day,CUS-5479,Customer_66,Consumer,South,Technology,Copiers,Copiers_440,654.07,3,0.25,9.45
+ORD-59823,2023-12-30,2024-01-03,Standard Class,CUS-7807,Customer_67,Corporate,Central,Office Supplies,Binders,Binders_420,301.2,1,0.3,62.39
+ORD-46434,2025-08-31,2025-09-07,Same Day,CUS-8905,Customer_68,Consumer,West,Office Supplies,Paper,Paper_104,468.86,10,0.15,92.65
+ORD-69429,2025-06-30,2025-07-07,Second Class,CUS-8736,Customer_69,Corporate,South,Furniture,Bookcases,Bookcases_314,2640.71,5,0.3,-71.52
+ORD-93320,2023-03-15,2023-03-21,Second Class,CUS-4993,Customer_70,Consumer,East,Technology,Computers,Computers_601,1424.88,10,0.2,163.54
+ORD-57819,2023-08-17,2023-08-22,Second Class,CUS-8483,Customer_71,Home Office,West,Technology,Computers,Computers_729,4264.67,5,0.1,683.71
+ORD-31319,2024-01-06,2024-01-11,Standard Class,CUS-3369,Customer_72,Consumer,Central,Furniture,Furnishings,Furnishings_513,100.96,1,0.25,2.98
+ORD-58520,2024-09-03,2024-09-09,Second Class,CUS-7284,Customer_73,Consumer,East,Furniture,Furnishings,Furnishings_492,151.29,8,0.2,19.77
+ORD-56566,2025-07-14,2025-07-19,Standard Class,CUS-4122,Customer_74,Corporate,East,Technology,Phones,Phones_646,3032.64,10,0.15,377.96
+ORD-37460,2024-12-18,2024-12-21,Second Class,CUS-9327,Customer_75,Consumer,East,Technology,Accessories,Accessories_114,1855.75,3,0.2,190.29
+ORD-97841,2023-10-28,2023-11-01,Same Day,CUS-3236,Customer_76,Consumer,South,Furniture,Tables,Tables_118,1220.74,10,0.1,331.68
+ORD-44993,2025-11-03,2025-11-06,Same Day,CUS-2143,Customer_77,Corporate,Central,Office Supplies,Paper,Paper_741,286.58,1,0.0,47.85
+ORD-99593,2024-11-02,2024-11-08,First Class,CUS-5526,Customer_78,Home Office,West,Office Supplies,Binders,Binders_331,103.97,5,0.2,20.02
+ORD-94939,2024-05-02,2024-05-07,Same Day,CUS-7798,Customer_79,Home Office,South,Office Supplies,Pens,Pens_419,113.76,10,0.3,13.79
+ORD-19358,2025-07-26,2025-07-28,First Class,CUS-6568,Customer_80,Corporate,South,Technology,Phones,Phones_492,2448.78,1,0.15,478.56
+ORD-89840,2024-03-26,2024-03-29,Same Day,CUS-9318,Customer_81,Corporate,South,Office Supplies,Art,Art_413,379.58,5,0.1,94.48
+ORD-93227,2024-07-11,2024-07-13,Standard Class,CUS-5377,Customer_82,Corporate,East,Technology,Phones,Phones_943,3116.51,8,0.0,824.36
+ORD-32431,2024-07-09,2024-07-16,Same Day,CUS-1042,Customer_83,Corporate,Central,Technology,Accessories,Accessories_397,1521.91,2,0.3,325.35
+ORD-80010,2024-06-21,2024-06-27,First Class,CUS-5634,Customer_84,Corporate,South,Furniture,Bookcases,Bookcases_544,1347.98,3,0.2,273.2
+ORD-42087,2024-01-06,2024-01-12,First Class,CUS-5891,Customer_85,Home Office,West,Office Supplies,Binders,Binders_450,93.63,9,0.3,10.68
+ORD-31417,2025-08-05,2025-08-08,Second Class,CUS-9022,Customer_86,Home Office,Central,Furniture,Bookcases,Bookcases_868,316.43,2,0.0,110.41
+ORD-70589,2025-07-17,2025-07-20,Standard Class,CUS-3434,Customer_87,Corporate,West,Technology,Computers,Computers_931,3924.35,5,0.2,713.62
+ORD-59735,2024-05-21,2024-05-24,Same Day,CUS-8316,Customer_88,Consumer,Central,Furniture,Chairs,Chairs_333,869.62,5,0.2,75.96
+ORD-45382,2023-07-15,2023-07-20,Second Class,CUS-9824,Customer_89,Corporate,West,Technology,Computers,Computers_316,929.94,3,0.25,34.53
+ORD-93886,2024-12-24,2024-12-28,Same Day,CUS-8935,Customer_90,Consumer,East,Office Supplies,Paper,Paper_703,348.89,10,0.3,-1.5
+ORD-83000,2024-10-14,2024-10-21,Same Day,CUS-6654,Customer_91,Corporate,South,Office Supplies,Binders,Binders_226,312.85,5,0.3,68.78
+ORD-38785,2023-09-03,2023-09-06,Second Class,CUS-6446,Customer_92,Corporate,West,Furniture,Chairs,Chairs_484,1936.25,5,0.0,606.12
+ORD-99733,2023-02-02,2023-02-05,Second Class,CUS-9903,Customer_93,Home Office,Central,Office Supplies,Pens,Pens_889,122.16,5,0.0,46.57
+ORD-52504,2023-04-18,2023-04-21,Second Class,CUS-7180,Customer_94,Consumer,South,Office Supplies,Art,Art_149,124.0,1,0.1,28.64
+ORD-17331,2025-05-01,2025-05-07,Second Class,CUS-8460,Customer_95,Consumer,South,Office Supplies,Paper,Paper_777,118.19,2,0.2,16.79
+ORD-40021,2024-04-16,2024-04-22,Second Class,CUS-6272,Customer_96,Home Office,Central,Technology,Phones,Phones_149,910.08,10,0.2,16.3
+ORD-14207,2025-07-16,2025-07-18,Same Day,CUS-4090,Customer_97,Home Office,West,Office Supplies,Paper,Paper_526,331.3,3,0.3,50.19
+ORD-51347,2023-12-26,2024-01-02,Second Class,CUS-4912,Customer_98,Home Office,East,Furniture,Furnishings,Furnishings_226,2559.25,10,0.25,383.02
+ORD-62581,2024-05-16,2024-05-21,Standard Class,CUS-7274,Customer_99,Home Office,East,Office Supplies,Pens,Pens_585,364.92,3,0.0,144.9
+ORD-45093,2024-05-17,2024-05-19,First Class,CUS-4826,Customer_100,Consumer,West,Office Supplies,Binders,Binders_310,398.13,8,0.3,8.66
+ORD-18675,2023-06-19,2023-06-24,Second Class,CUS-7730,Customer_101,Consumer,South,Office Supplies,Paper,Paper_408,208.35,6,0.1,43.59
+ORD-37653,2024-03-12,2024-03-14,Second Class,CUS-1715,Customer_102,Corporate,South,Furniture,Chairs,Chairs_778,1996.82,3,0.0,589.64
+ORD-84341,2023-02-19,2023-02-25,Same Day,CUS-6213,Customer_103,Corporate,South,Office Supplies,Pens,Pens_737,183.58,5,0.15,40.09
+ORD-51245,2025-10-30,2025-11-01,Second Class,CUS-8749,Customer_104,Home Office,South,Office Supplies,Binders,Binders_528,267.5,4,0.1,58.42
+ORD-37869,2024-02-27,2024-02-28,Second Class,CUS-7246,Customer_105,Home Office,West,Technology,Phones,Phones_389,2434.09,8,0.15,628.19
+ORD-95909,2023-06-01,2023-06-05,Second Class,CUS-7325,Customer_106,Home Office,South,Technology,Phones,Phones_609,925.59,3,0.1,103.2
+ORD-75435,2024-09-14,2024-09-20,Same Day,CUS-3492,Customer_107,Corporate,Central,Technology,Computers,Computers_896,1966.04,9,0.25,378.83
+ORD-61856,2025-07-02,2025-07-03,Second Class,CUS-9115,Customer_108,Corporate,South,Furniture,Tables,Tables_466,2895.08,1,0.2,538.25
+ORD-94259,2023-08-16,2023-08-17,First Class,CUS-1606,Customer_109,Corporate,East,Office Supplies,Storage,Storage_402,131.8,6,0.0,48.61
+ORD-70142,2023-09-27,2023-10-01,Same Day,CUS-3068,Customer_110,Corporate,South,Technology,Phones,Phones_661,712.33,2,0.1,216.66
+ORD-28726,2025-07-09,2025-07-13,First Class,CUS-9229,Customer_111,Corporate,West,Furniture,Tables,Tables_804,1313.88,3,0.2,124.22
+ORD-44718,2023-12-21,2023-12-28,Same Day,CUS-6439,Customer_112,Corporate,East,Furniture,Bookcases,Bookcases_340,2391.98,10,0.3,78.63
+ORD-28301,2024-06-18,2024-06-21,Second Class,CUS-2644,Customer_113,Corporate,West,Technology,Phones,Phones_787,2931.63,3,0.2,863.35
+ORD-42325,2024-06-14,2024-06-20,First Class,CUS-8213,Customer_114,Home Office,West,Technology,Phones,Phones_955,3420.83,8,0.15,626.63
+ORD-83579,2023-03-09,2023-03-16,Same Day,CUS-2633,Customer_115,Home Office,East,Office Supplies,Storage,Storage_252,102.95,7,0.3,22.85
+ORD-80644,2023-05-10,2023-05-16,Standard Class,CUS-9617,Customer_116,Home Office,West,Technology,Phones,Phones_840,3113.79,7,0.25,75.24
+ORD-44438,2024-02-26,2024-03-02,Second Class,CUS-8486,Customer_117,Home Office,West,Office Supplies,Paper,Paper_362,168.52,4,0.25,28.29
+ORD-86622,2023-01-23,2023-01-25,Same Day,CUS-1251,Customer_118,Corporate,South,Office Supplies,Binders,Binders_567,418.81,8,0.15,112.22
+ORD-66155,2025-03-12,2025-03-19,Standard Class,CUS-3361,Customer_119,Consumer,Central,Furniture,Bookcases,Bookcases_575,1924.97,3,0.3,450.86
+ORD-86484,2023-11-03,2023-11-04,Same Day,CUS-7717,Customer_120,Corporate,West,Technology,Phones,Phones_932,1034.34,4,0.2,104.68
+ORD-62350,2025-01-29,2025-02-05,Standard Class,CUS-3529,Customer_121,Consumer,West,Technology,Phones,Phones_972,369.85,10,0.15,89.69
+ORD-57447,2025-08-18,2025-08-20,Second Class,CUS-2225,Customer_122,Home Office,West,Furniture,Bookcases,Bookcases_920,223.64,6,0.2,36.15
+ORD-38746,2024-06-22,2024-06-23,First Class,CUS-8692,Customer_123,Corporate,South,Office Supplies,Pens,Pens_536,191.99,1,0.3,-6.11
+ORD-28131,2022-11-26,2022-11-29,Standard Class,CUS-5342,Customer_124,Home Office,Central,Office Supplies,Paper,Paper_197,140.27,5,0.25,25.53
+ORD-76784,2023-06-15,2023-06-18,Same Day,CUS-6546,Customer_125,Corporate,East,Technology,Phones,Phones_972,3248.15,2,0.2,672.46
+ORD-74686,2024-06-12,2024-06-16,Second Class,CUS-7512,Customer_126,Home Office,South,Technology,Computers,Computers_436,2521.7,1,0.2,704.01
+ORD-21915,2025-10-16,2025-10-20,Standard Class,CUS-2315,Customer_127,Consumer,South,Furniture,Furnishings,Furnishings_736,871.46,3,0.25,108.23
+ORD-16175,2023-08-09,2023-08-16,Same Day,CUS-6383,Customer_128,Consumer,Central,Furniture,Chairs,Chairs_481,532.79,8,0.15,50.12
+ORD-24371,2025-09-05,2025-09-09,Same Day,CUS-9742,Customer_129,Consumer,Central,Furniture,Tables,Tables_216,468.88,7,0.1,29.71
+ORD-30033,2024-05-19,2024-05-21,Same Day,CUS-7226,Customer_130,Corporate,South,Furniture,Furnishings,Furnishings_567,2607.52,8,0.2,325.14
+ORD-92240,2023-06-26,2023-06-29,Standard Class,CUS-6188,Customer_131,Consumer,East,Furniture,Furnishings,Furnishings_806,806.09,5,0.0,153.62
+ORD-30969,2023-10-06,2023-10-12,Standard Class,CUS-8994,Customer_132,Corporate,South,Furniture,Furnishings,Furnishings_764,1989.96,8,0.0,653.36
+ORD-99192,2025-06-04,2025-06-10,Standard Class,CUS-9864,Customer_133,Consumer,Central,Technology,Phones,Phones_235,4062.9,9,0.15,533.38
+ORD-65333,2024-04-17,2024-04-23,First Class,CUS-1588,Customer_134,Consumer,East,Office Supplies,Paper,Paper_964,310.9,4,0.2,88.52
+ORD-88172,2023-11-24,2023-11-25,Standard Class,CUS-2121,Customer_135,Corporate,Central,Technology,Phones,Phones_526,4304.85,7,0.2,1242.78
+ORD-18326,2024-09-28,2024-10-05,Standard Class,CUS-4846,Customer_136,Corporate,East,Office Supplies,Storage,Storage_921,202.27,7,0.1,47.79
+ORD-60432,2024-07-04,2024-07-09,Standard Class,CUS-5708,Customer_137,Consumer,West,Office Supplies,Storage,Storage_285,478.55,8,0.3,109.4
+ORD-60019,2023-12-08,2023-12-10,First Class,CUS-4727,Customer_138,Corporate,Central,Office Supplies,Storage,Storage_897,75.24,5,0.1,20.94
+ORD-88104,2025-02-15,2025-02-22,Standard Class,CUS-2480,Customer_139,Consumer,Central,Furniture,Chairs,Chairs_983,396.23,3,0.0,104.63
+ORD-71348,2025-04-01,2025-04-06,Same Day,CUS-8110,Customer_140,Corporate,South,Office Supplies,Binders,Binders_594,332.76,9,0.0,51.28
+ORD-79352,2024-09-09,2024-09-10,Standard Class,CUS-2612,Customer_141,Home Office,Central,Furniture,Chairs,Chairs_521,2834.21,7,0.3,248.22
+ORD-42953,2025-02-05,2025-02-11,Same Day,CUS-2646,Customer_142,Home Office,Central,Furniture,Chairs,Chairs_164,2445.76,1,0.0,656.11
+ORD-82512,2023-05-22,2023-05-24,Same Day,CUS-8269,Customer_143,Home Office,West,Furniture,Bookcases,Bookcases_112,321.61,5,0.0,115.52
+ORD-11504,2023-08-22,2023-08-26,Same Day,CUS-3725,Customer_144,Home Office,Central,Office Supplies,Art,Art_885,146.89,8,0.2,21.21
+ORD-99166,2024-08-31,2024-09-02,First Class,CUS-5906,Customer_145,Home Office,West,Office Supplies,Art,Art_841,465.86,7,0.3,102.16
+ORD-25014,2022-11-21,2022-11-24,First Class,CUS-1474,Customer_146,Consumer,West,Office Supplies,Binders,Binders_785,134.0,6,0.0,40.51
+ORD-99353,2025-01-01,2025-01-03,First Class,CUS-1753,Customer_147,Home Office,West,Furniture,Chairs,Chairs_543,2365.39,9,0.1,215.49
+ORD-80381,2025-05-10,2025-05-17,Standard Class,CUS-6314,Customer_148,Home Office,West,Office Supplies,Binders,Binders_593,414.31,1,0.2,123.67
+ORD-44973,2024-05-07,2024-05-10,Same Day,CUS-1919,Customer_149,Home Office,East,Furniture,Furnishings,Furnishings_252,1536.81,2,0.25,204.66
+ORD-94012,2024-07-18,2024-07-23,First Class,CUS-5806,Customer_150,Home Office,South,Office Supplies,Art,Art_155,199.31,9,0.3,13.46
+ORD-54587,2022-12-01,2022-12-04,First Class,CUS-6873,Customer_151,Corporate,East,Technology,Computers,Computers_617,2278.12,6,0.15,507.42
+ORD-24621,2024-11-13,2024-11-19,Standard Class,CUS-7141,Customer_152,Consumer,Central,Furniture,Furnishings,Furnishings_990,758.2,7,0.1,62.68
+ORD-48469,2024-03-05,2024-03-06,First Class,CUS-8056,Customer_153,Home Office,East,Technology,Phones,Phones_869,4452.49,10,0.15,961.57
+ORD-66985,2023-07-08,2023-07-12,Standard Class,CUS-3385,Customer_154,Home Office,East,Furniture,Bookcases,Bookcases_346,1406.8,5,0.25,175.11
+ORD-30730,2024-07-28,2024-07-30,Second Class,CUS-5000,Customer_155,Home Office,Central,Furniture,Bookcases,Bookcases_151,2659.13,6,0.25,257.94
+ORD-69470,2025-02-15,2025-02-21,First Class,CUS-9702,Customer_156,Consumer,Central,Office Supplies,Binders,Binders_663,61.79,5,0.0,23.85
+ORD-10425,2025-09-02,2025-09-08,Second Class,CUS-7751,Customer_157,Corporate,Central,Office Supplies,Storage,Storage_512,494.25,5,0.0,126.9
+ORD-44522,2024-08-05,2024-08-11,Standard Class,CUS-3950,Customer_158,Consumer,East,Technology,Phones,Phones_570,2244.2,2,0.3,35.31
+ORD-75612,2023-07-06,2023-07-12,Same Day,CUS-3785,Customer_159,Corporate,East,Furniture,Furnishings,Furnishings_190,238.71,5,0.25,26.9
+ORD-33416,2024-07-04,2024-07-07,First Class,CUS-3868,Customer_160,Home Office,Central,Furniture,Furnishings,Furnishings_423,210.26,10,0.2,57.99
+ORD-76542,2024-02-03,2024-02-05,Standard Class,CUS-2293,Customer_161,Home Office,South,Technology,Copiers,Copiers_863,3743.73,7,0.2,197.78
+ORD-23947,2023-08-08,2023-08-12,Same Day,CUS-7267,Customer_162,Consumer,South,Office Supplies,Paper,Paper_205,332.93,8,0.1,38.02
+ORD-91959,2023-09-17,2023-09-21,Same Day,CUS-4945,Customer_163,Consumer,West,Furniture,Furnishings,Furnishings_136,2426.18,4,0.15,70.14
+ORD-49117,2024-12-12,2024-12-16,Second Class,CUS-9153,Customer_164,Corporate,Central,Office Supplies,Art,Art_100,61.63,10,0.3,-2.82
+ORD-93748,2025-06-29,2025-07-06,Standard Class,CUS-3344,Customer_165,Corporate,West,Technology,Accessories,Accessories_620,226.08,4,0.2,56.25
+ORD-76540,2024-01-29,2024-02-05,Same Day,CUS-4804,Customer_166,Consumer,South,Office Supplies,Binders,Binders_770,259.2,9,0.2,56.93
+ORD-89818,2024-03-28,2024-04-03,First Class,CUS-8555,Customer_167,Corporate,West,Office Supplies,Storage,Storage_449,199.92,6,0.25,16.3
+ORD-36071,2023-04-24,2023-04-29,First Class,CUS-5161,Customer_168,Consumer,Central,Furniture,Chairs,Chairs_936,1439.65,3,0.15,337.59
+ORD-30032,2025-05-10,2025-05-15,Second Class,CUS-8529,Customer_169,Corporate,Central,Technology,Copiers,Copiers_439,4958.36,6,0.25,463.91
+ORD-59009,2024-11-17,2024-11-18,Same Day,CUS-5183,Customer_170,Consumer,Central,Office Supplies,Art,Art_714,485.67,9,0.15,150.98
+ORD-31174,2023-06-25,2023-06-26,Standard Class,CUS-1153,Customer_171,Consumer,East,Furniture,Bookcases,Bookcases_833,2832.71,1,0.25,751.0
+ORD-80697,2025-09-08,2025-09-10,First Class,CUS-8622,Customer_172,Consumer,West,Furniture,Chairs,Chairs_199,2373.14,1,0.25,220.32
+ORD-79514,2023-09-10,2023-09-12,Same Day,CUS-5712,Customer_173,Corporate,South,Office Supplies,Binders,Binders_102,183.87,2,0.0,65.51
+ORD-10074,2024-09-09,2024-09-16,Same Day,CUS-9955,Customer_174,Corporate,South,Furniture,Bookcases,Bookcases_949,1295.18,1,0.0,429.9
+ORD-88504,2025-10-08,2025-10-12,Second Class,CUS-3588,Customer_175,Corporate,South,Office Supplies,Pens,Pens_660,279.31,7,0.2,25.98
+ORD-52487,2023-07-04,2023-07-10,First Class,CUS-2210,Customer_176,Consumer,East,Office Supplies,Pens,Pens_818,416.96,2,0.0,70.72
+ORD-74042,2024-01-02,2024-01-08,First Class,CUS-8237,Customer_177,Corporate,East,Technology,Phones,Phones_268,390.13,9,0.2,53.63
+ORD-12552,2025-08-05,2025-08-06,Standard Class,CUS-6661,Customer_178,Corporate,Central,Furniture,Tables,Tables_941,1330.46,2,0.2,311.87
+ORD-24662,2025-09-18,2025-09-22,First Class,CUS-5901,Customer_179,Consumer,South,Office Supplies,Storage,Storage_209,50.48,8,0.15,15.8
+ORD-57576,2023-03-01,2023-03-05,Standard Class,CUS-7951,Customer_180,Home Office,East,Furniture,Tables,Tables_292,1592.51,6,0.2,364.8
+ORD-50306,2023-08-05,2023-08-10,First Class,CUS-5097,Customer_181,Consumer,Central,Technology,Copiers,Copiers_320,4499.56,4,0.2,1154.42
+ORD-41385,2025-03-07,2025-03-11,Second Class,CUS-8484,Customer_182,Corporate,South,Furniture,Tables,Tables_833,2369.21,5,0.2,428.64
+ORD-17592,2023-03-06,2023-03-11,First Class,CUS-5949,Customer_183,Consumer,West,Furniture,Chairs,Chairs_875,760.74,5,0.0,266.73
+ORD-41571,2025-06-11,2025-06-17,Standard Class,CUS-4263,Customer_184,Home Office,Central,Furniture,Chairs,Chairs_748,2930.37,4,0.0,982.63
+ORD-84364,2024-07-31,2024-08-06,Standard Class,CUS-7302,Customer_185,Consumer,East,Office Supplies,Art,Art_226,337.0,1,0.1,54.96
+ORD-20322,2022-12-22,2022-12-26,Second Class,CUS-8916,Customer_186,Corporate,East,Furniture,Furnishings,Furnishings_774,130.24,1,0.25,18.31
+ORD-21226,2024-04-12,2024-04-19,First Class,CUS-2747,Customer_187,Home Office,Central,Office Supplies,Art,Art_237,135.15,10,0.3,25.87
+ORD-73699,2022-11-14,2022-11-20,First Class,CUS-4886,Customer_188,Corporate,Central,Furniture,Chairs,Chairs_643,856.07,2,0.15,33.23
+ORD-19071,2024-01-28,2024-02-02,Second Class,CUS-7248,Customer_189,Home Office,East,Office Supplies,Paper,Paper_666,43.93,1,0.3,8.45
+ORD-79822,2023-04-06,2023-04-07,First Class,CUS-6881,Customer_190,Home Office,West,Furniture,Furnishings,Furnishings_620,2883.5,10,0.1,298.06
+ORD-26483,2025-03-24,2025-03-27,First Class,CUS-5847,Customer_191,Consumer,South,Technology,Computers,Computers_848,2417.36,4,0.2,373.25
+ORD-26828,2023-03-18,2023-03-23,Standard Class,CUS-5837,Customer_192,Consumer,West,Technology,Phones,Phones_496,4484.28,10,0.2,1087.36
+ORD-96474,2023-03-11,2023-03-12,First Class,CUS-1359,Customer_193,Corporate,Central,Office Supplies,Art,Art_720,167.89,2,0.1,21.18
+ORD-72296,2025-07-01,2025-07-02,First Class,CUS-7484,Customer_194,Consumer,West,Furniture,Furnishings,Furnishings_528,463.18,2,0.15,45.74
+ORD-82063,2024-06-17,2024-06-21,Second Class,CUS-5497,Customer_195,Consumer,East,Office Supplies,Binders,Binders_380,242.42,2,0.3,17.17
+ORD-31643,2023-11-11,2023-11-18,Second Class,CUS-1132,Customer_196,Home Office,Central,Furniture,Bookcases,Bookcases_401,430.47,10,0.2,115.54
+ORD-44741,2023-08-12,2023-08-19,Same Day,CUS-1803,Customer_197,Consumer,South,Furniture,Tables,Tables_241,1509.44,3,0.2,0.2
+ORD-79163,2025-03-17,2025-03-20,Standard Class,CUS-9138,Customer_198,Home Office,East,Furniture,Bookcases,Bookcases_963,2768.86,7,0.0,1025.63
+ORD-89507,2024-12-30,2025-01-03,First Class,CUS-5689,Customer_199,Home Office,East,Office Supplies,Art,Art_981,265.18,10,0.25,5.61
+ORD-65461,2024-12-20,2024-12-24,First Class,CUS-4770,Customer_200,Home Office,South,Furniture,Tables,Tables_305,1887.85,3,0.3,466.35
+ORD-37760,2023-04-21,2023-04-27,Same Day,CUS-6772,Customer_201,Corporate,South,Technology,Accessories,Accessories_803,825.36,2,0.2,236.43
+ORD-80686,2023-08-07,2023-08-13,First Class,CUS-4588,Customer_202,Corporate,West,Furniture,Tables,Tables_827,226.83,3,0.3,22.32
+ORD-36365,2024-10-20,2024-10-21,Standard Class,CUS-4115,Customer_203,Corporate,Central,Office Supplies,Binders,Binders_615,64.3,5,0.25,8.28
+ORD-50857,2023-11-08,2023-11-13,Same Day,CUS-5106,Customer_204,Home Office,South,Office Supplies,Pens,Pens_827,303.28,5,0.3,28.65
+ORD-62296,2025-01-20,2025-01-25,Standard Class,CUS-3240,Customer_205,Corporate,South,Technology,Accessories,Accessories_675,520.31,8,0.25,86.18
+ORD-98039,2023-07-26,2023-08-01,Same Day,CUS-2591,Customer_206,Corporate,Central,Furniture,Furnishings,Furnishings_790,1190.38,2,0.25,2.64
+ORD-95180,2024-02-07,2024-02-14,Same Day,CUS-1645,Customer_207,Consumer,South,Office Supplies,Art,Art_392,279.55,8,0.2,2.74
+ORD-58944,2022-11-15,2022-11-22,Second Class,CUS-6061,Customer_208,Corporate,South,Furniture,Chairs,Chairs_635,1227.09,5,0.2,21.24
+ORD-67422,2022-12-24,2022-12-27,Standard Class,CUS-8222,Customer_209,Corporate,West,Technology,Phones,Phones_490,860.23,7,0.25,93.17
+ORD-77839,2025-06-13,2025-06-19,First Class,CUS-1546,Customer_210,Home Office,East,Technology,Phones,Phones_786,1405.27,6,0.1,186.43
+ORD-69177,2025-03-25,2025-03-30,First Class,CUS-6977,Customer_211,Home Office,East,Technology,Computers,Computers_373,4645.17,5,0.25,750.71
+ORD-25860,2024-12-23,2024-12-30,Standard Class,CUS-3153,Customer_212,Home Office,East,Technology,Accessories,Accessories_799,3396.11,3,0.0,1350.74
+ORD-42493,2024-02-21,2024-02-23,First Class,CUS-2476,Customer_213,Home Office,East,Furniture,Tables,Tables_959,1538.54,2,0.2,178.31
+ORD-39451,2025-06-08,2025-06-11,First Class,CUS-5835,Customer_214,Home Office,South,Technology,Accessories,Accessories_308,112.94,5,0.15,22.27
+ORD-18392,2023-09-21,2023-09-24,Standard Class,CUS-6352,Customer_215,Home Office,Central,Office Supplies,Paper,Paper_467,496.28,1,0.2,61.88
+ORD-54313,2023-11-29,2023-12-05,Same Day,CUS-7807,Customer_216,Corporate,Central,Furniture,Chairs,Chairs_730,2047.22,7,0.25,469.18
+ORD-12757,2023-06-27,2023-06-28,Standard Class,CUS-3877,Customer_217,Home Office,West,Office Supplies,Art,Art_985,165.29,7,0.2,44.74
+ORD-87110,2025-03-15,2025-03-20,Same Day,CUS-4289,Customer_218,Home Office,West,Technology,Copiers,Copiers_343,4402.38,6,0.25,1048.68
+ORD-82603,2022-12-10,2022-12-12,First Class,CUS-3165,Customer_219,Consumer,South,Office Supplies,Pens,Pens_809,136.63,1,0.3,33.11
+ORD-40161,2024-01-04,2024-01-05,First Class,CUS-9837,Customer_220,Corporate,Central,Office Supplies,Paper,Paper_490,276.57,5,0.15,9.2
+ORD-87128,2023-06-02,2023-06-07,First Class,CUS-6994,Customer_221,Corporate,Central,Furniture,Furnishings,Furnishings_907,1944.61,5,0.15,538.55
+ORD-38864,2023-01-15,2023-01-19,Second Class,CUS-9697,Customer_222,Corporate,East,Office Supplies,Pens,Pens_665,118.32,3,0.15,29.64
+ORD-10942,2023-02-15,2023-02-17,Same Day,CUS-9221,Customer_223,Home Office,South,Technology,Phones,Phones_861,4893.07,8,0.0,825.01
+ORD-19305,2023-02-06,2023-02-10,Second Class,CUS-5465,Customer_224,Home Office,South,Furniture,Tables,Tables_735,2269.76,2,0.0,878.16
+ORD-92719,2025-04-24,2025-04-26,Second Class,CUS-3695,Customer_225,Home Office,East,Furniture,Tables,Tables_748,1717.66,8,0.25,33.41
+ORD-17716,2024-01-26,2024-02-02,Standard Class,CUS-5210,Customer_226,Consumer,South,Office Supplies,Pens,Pens_873,98.49,4,0.0,29.93
+ORD-40007,2023-03-03,2023-03-05,Second Class,CUS-8894,Customer_227,Home Office,South,Office Supplies,Art,Art_856,36.39,10,0.1,4.27
+ORD-18834,2025-09-04,2025-09-07,Standard Class,CUS-5835,Customer_228,Consumer,West,Office Supplies,Binders,Binders_894,166.83,7,0.15,25.76
+ORD-14117,2024-03-01,2024-03-08,Standard Class,CUS-6549,Customer_229,Corporate,Central,Office Supplies,Binders,Binders_401,379.06,3,0.15,91.26
+ORD-53309,2024-08-22,2024-08-27,Second Class,CUS-2886,Customer_230,Home Office,South,Furniture,Tables,Tables_799,881.06,8,0.3,104.84
+ORD-19287,2024-08-25,2024-08-27,Same Day,CUS-8673,Customer_231,Consumer,West,Technology,Computers,Computers_277,2720.8,2,0.25,280.92
+ORD-77391,2024-07-18,2024-07-20,Same Day,CUS-2233,Customer_232,Consumer,Central,Office Supplies,Art,Art_222,366.69,3,0.0,72.57
+ORD-41195,2025-10-10,2025-10-12,Same Day,CUS-3306,Customer_233,Home Office,East,Furniture,Chairs,Chairs_538,413.04,9,0.3,83.39
+ORD-46500,2025-03-03,2025-03-06,Same Day,CUS-4696,Customer_234,Corporate,West,Furniture,Bookcases,Bookcases_233,2087.36,7,0.15,142.24
+ORD-97684,2024-05-24,2024-05-25,Same Day,CUS-7511,Customer_235,Corporate,West,Technology,Accessories,Accessories_105,504.76,4,0.2,65.13
+ORD-73624,2023-11-01,2023-11-07,Second Class,CUS-6992,Customer_236,Corporate,Central,Furniture,Furnishings,Furnishings_826,2898.88,10,0.0,1075.85
+ORD-38080,2025-03-31,2025-04-05,Second Class,CUS-2479,Customer_237,Consumer,East,Technology,Phones,Phones_257,2467.55,2,0.2,626.15
+ORD-80678,2025-08-19,2025-08-20,First Class,CUS-7464,Customer_238,Consumer,West,Furniture,Chairs,Chairs_892,536.96,8,0.15,78.01
+ORD-27342,2024-10-13,2024-10-19,Same Day,CUS-1228,Customer_239,Consumer,South,Office Supplies,Art,Art_963,177.77,5,0.15,45.14
+ORD-84847,2024-12-27,2025-01-03,Second Class,CUS-5332,Customer_240,Consumer,South,Office Supplies,Pens,Pens_602,212.57,2,0.2,52.49
+ORD-85525,2025-10-17,2025-10-20,First Class,CUS-9791,Customer_241,Corporate,South,Office Supplies,Art,Art_466,381.51,1,0.15,111.27
+ORD-71953,2025-03-09,2025-03-13,Same Day,CUS-3024,Customer_242,Home Office,East,Technology,Accessories,Accessories_638,3729.95,2,0.0,982.29
+ORD-41850,2023-09-09,2023-09-12,Standard Class,CUS-8451,Customer_243,Consumer,West,Technology,Computers,Computers_633,3079.11,2,0.3,34.91
+ORD-71993,2024-12-17,2024-12-19,First Class,CUS-7038,Customer_244,Consumer,South,Technology,Computers,Computers_525,574.36,10,0.1,72.71
+ORD-63354,2025-07-04,2025-07-06,Second Class,CUS-5295,Customer_245,Corporate,East,Office Supplies,Art,Art_513,84.27,5,0.1,11.69
+ORD-34957,2024-02-12,2024-02-15,Standard Class,CUS-7242,Customer_246,Home Office,South,Technology,Accessories,Accessories_326,514.1,8,0.1,117.29
+ORD-22363,2023-08-30,2023-09-06,Standard Class,CUS-7086,Customer_247,Home Office,Central,Technology,Accessories,Accessories_439,2907.01,1,0.3,-116.74
+ORD-22704,2025-06-13,2025-06-14,Standard Class,CUS-2775,Customer_248,Corporate,West,Furniture,Bookcases,Bookcases_323,2643.7,8,0.15,570.54
+ORD-96374,2025-03-02,2025-03-06,First Class,CUS-4830,Customer_249,Corporate,West,Office Supplies,Art,Art_586,222.56,3,0.25,18.76
+ORD-66498,2025-10-28,2025-10-30,Second Class,CUS-8724,Customer_250,Home Office,East,Office Supplies,Paper,Paper_217,88.82,1,0.0,16.75
+ORD-56438,2025-01-11,2025-01-13,Standard Class,CUS-1410,Customer_251,Consumer,East,Office Supplies,Pens,Pens_556,283.44,1,0.3,60.61
+ORD-65519,2024-04-13,2024-04-15,Same Day,CUS-6374,Customer_252,Home Office,West,Technology,Computers,Computers_140,4068.17,7,0.0,968.23
+ORD-63883,2024-09-14,2024-09-20,Standard Class,CUS-4626,Customer_253,Corporate,South,Office Supplies,Pens,Pens_490,373.44,5,0.15,19.98
+ORD-71213,2023-04-18,2023-04-22,Standard Class,CUS-2035,Customer_254,Consumer,South,Technology,Copiers,Copiers_362,4413.18,3,0.0,1535.89
+ORD-17100,2024-12-06,2024-12-07,First Class,CUS-8606,Customer_255,Consumer,Central,Office Supplies,Pens,Pens_125,146.17,6,0.15,5.74
+ORD-98259,2023-12-03,2023-12-04,First Class,CUS-5951,Customer_256,Corporate,South,Office Supplies,Pens,Pens_626,105.04,7,0.1,28.15
+ORD-95649,2024-05-10,2024-05-14,Second Class,CUS-7689,Customer_257,Corporate,East,Office Supplies,Storage,Storage_598,441.11,10,0.0,146.52
+ORD-94696,2023-01-27,2023-02-03,Same Day,CUS-2911,Customer_258,Corporate,East,Technology,Accessories,Accessories_767,3304.92,1,0.25,266.97
+ORD-22899,2023-04-06,2023-04-08,First Class,CUS-3290,Customer_259,Home Office,South,Technology,Accessories,Accessories_626,1589.1,9,0.15,432.93
+ORD-17944,2024-01-26,2024-01-30,Standard Class,CUS-1742,Customer_260,Home Office,East,Technology,Phones,Phones_271,3724.62,8,0.0,948.65
+ORD-62772,2024-01-09,2024-01-16,Second Class,CUS-1609,Customer_261,Consumer,West,Office Supplies,Art,Art_107,409.41,8,0.2,56.9
+ORD-54473,2024-09-19,2024-09-22,Standard Class,CUS-5986,Customer_262,Corporate,West,Office Supplies,Paper,Paper_315,311.34,7,0.3,-11.33
+ORD-24322,2022-12-09,2022-12-11,Standard Class,CUS-9071,Customer_263,Consumer,South,Office Supplies,Binders,Binders_985,347.06,7,0.2,30.2
+ORD-42591,2023-12-02,2023-12-08,First Class,CUS-2902,Customer_264,Consumer,West,Office Supplies,Storage,Storage_955,193.88,2,0.25,49.3
+ORD-35112,2023-07-06,2023-07-12,Second Class,CUS-2592,Customer_265,Consumer,West,Technology,Computers,Computers_650,2716.54,9,0.25,251.41
+ORD-34931,2025-07-15,2025-07-17,Same Day,CUS-4846,Customer_266,Consumer,Central,Office Supplies,Storage,Storage_762,266.84,4,0.2,43.76
+ORD-80292,2023-12-31,2024-01-04,Same Day,CUS-9807,Customer_267,Corporate,Central,Technology,Computers,Computers_124,4247.84,1,0.15,784.18
+ORD-68800,2024-03-12,2024-03-17,First Class,CUS-3222,Customer_268,Consumer,West,Furniture,Bookcases,Bookcases_138,2535.9,7,0.0,702.77
+ORD-28373,2024-08-27,2024-09-03,First Class,CUS-7367,Customer_269,Corporate,South,Technology,Phones,Phones_155,4171.77,8,0.3,-131.83
+ORD-65296,2024-06-09,2024-06-13,Second Class,CUS-8432,Customer_270,Corporate,Central,Technology,Accessories,Accessories_671,104.61,2,0.2,11.37
+ORD-34050,2025-06-19,2025-06-24,Same Day,CUS-7078,Customer_271,Home Office,East,Technology,Computers,Computers_364,3760.25,10,0.25,721.74
+ORD-46509,2024-11-12,2024-11-15,Same Day,CUS-9850,Customer_272,Corporate,East,Furniture,Furnishings,Furnishings_561,2300.16,9,0.0,368.41
+ORD-70637,2024-04-26,2024-04-29,Same Day,CUS-7866,Customer_273,Home Office,East,Office Supplies,Storage,Storage_543,342.41,6,0.15,29.47
+ORD-42742,2025-09-23,2025-09-27,Standard Class,CUS-3531,Customer_274,Corporate,South,Furniture,Chairs,Chairs_498,2293.17,6,0.2,6.94
+ORD-19880,2025-06-19,2025-06-20,Same Day,CUS-7797,Customer_275,Corporate,West,Office Supplies,Paper,Paper_647,422.57,5,0.25,44.9
+ORD-68082,2025-06-26,2025-07-03,Standard Class,CUS-2622,Customer_276,Corporate,East,Technology,Phones,Phones_874,2378.08,7,0.2,629.76
+ORD-82132,2024-08-24,2024-08-26,Second Class,CUS-9017,Customer_277,Home Office,South,Office Supplies,Art,Art_146,256.0,1,0.15,10.39
+ORD-22833,2024-12-06,2024-12-09,Standard Class,CUS-7686,Customer_278,Home Office,Central,Office Supplies,Paper,Paper_466,71.11,2,0.25,2.3
+ORD-16630,2025-03-04,2025-03-05,Second Class,CUS-5583,Customer_279,Consumer,West,Office Supplies,Paper,Paper_396,198.83,6,0.0,38.38
+ORD-95477,2024-02-04,2024-02-10,Same Day,CUS-1536,Customer_280,Home Office,Central,Office Supplies,Pens,Pens_721,325.25,9,0.2,71.4
+ORD-80855,2023-09-02,2023-09-03,Same Day,CUS-7070,Customer_281,Home Office,South,Technology,Accessories,Accessories_883,3912.98,6,0.0,1143.34
+ORD-11934,2024-04-25,2024-04-30,Second Class,CUS-4559,Customer_282,Home Office,East,Furniture,Furnishings,Furnishings_504,729.91,2,0.3,54.58
+ORD-22224,2025-03-12,2025-03-15,First Class,CUS-8264,Customer_283,Home Office,East,Office Supplies,Paper,Paper_585,77.53,8,0.3,13.78
+ORD-40982,2023-09-16,2023-09-18,Second Class,CUS-8285,Customer_284,Consumer,South,Technology,Computers,Computers_239,3332.06,5,0.1,776.0
+ORD-31798,2024-09-13,2024-09-15,First Class,CUS-4868,Customer_285,Home Office,East,Office Supplies,Storage,Storage_915,10.92,4,0.15,3.21
+ORD-63269,2024-12-24,2024-12-29,Standard Class,CUS-6942,Customer_286,Corporate,West,Office Supplies,Pens,Pens_749,97.4,3,0.2,23.9
+ORD-73653,2024-03-25,2024-03-29,Standard Class,CUS-2627,Customer_287,Corporate,South,Technology,Accessories,Accessories_793,193.9,9,0.25,9.86
+ORD-73092,2024-09-29,2024-10-02,Standard Class,CUS-7018,Customer_288,Home Office,Central,Office Supplies,Pens,Pens_111,91.77,1,0.3,2.88
+ORD-38016,2025-08-04,2025-08-10,Same Day,CUS-9920,Customer_289,Home Office,South,Office Supplies,Art,Art_244,98.85,7,0.15,6.19
+ORD-62565,2025-08-08,2025-08-12,Standard Class,CUS-6876,Customer_290,Corporate,West,Technology,Phones,Phones_105,1968.98,4,0.1,297.49
+ORD-17685,2023-10-18,2023-10-24,First Class,CUS-1992,Customer_291,Corporate,West,Office Supplies,Art,Art_503,207.14,5,0.25,56.94
+ORD-31579,2024-10-29,2024-10-31,Standard Class,CUS-7523,Customer_292,Consumer,South,Office Supplies,Art,Art_187,438.39,7,0.15,64.32
+ORD-59672,2023-08-21,2023-08-27,Second Class,CUS-5520,Customer_293,Corporate,South,Furniture,Tables,Tables_866,1579.32,2,0.15,143.95
+ORD-10282,2025-08-04,2025-08-06,Second Class,CUS-4109,Customer_294,Corporate,East,Office Supplies,Pens,Pens_316,364.47,6,0.2,83.37
+ORD-61173,2023-03-08,2023-03-13,Same Day,CUS-3001,Customer_295,Home Office,West,Furniture,Tables,Tables_264,402.0,8,0.1,85.52
+ORD-44760,2023-01-16,2023-01-23,Second Class,CUS-8450,Customer_296,Corporate,South,Technology,Computers,Computers_731,1165.92,2,0.2,52.33
+ORD-69638,2023-04-09,2023-04-16,First Class,CUS-2501,Customer_297,Consumer,South,Furniture,Tables,Tables_217,2138.54,8,0.3,137.31
+ORD-47388,2023-02-15,2023-02-22,Standard Class,CUS-4475,Customer_298,Corporate,West,Technology,Phones,Phones_971,311.38,4,0.0,69.86
+ORD-65444,2022-11-21,2022-11-25,Same Day,CUS-1349,Customer_299,Home Office,South,Office Supplies,Storage,Storage_760,248.43,3,0.25,49.97
+ORD-82845,2023-08-16,2023-08-23,Standard Class,CUS-1828,Customer_300,Home Office,East,Office Supplies,Paper,Paper_397,303.69,1,0.1,17.07
+ORD-96752,2024-02-24,2024-02-25,Standard Class,CUS-6464,Customer_301,Corporate,West,Office Supplies,Paper,Paper_356,305.05,4,0.15,32.25
+ORD-73788,2023-09-13,2023-09-14,First Class,CUS-4990,Customer_302,Home Office,East,Technology,Computers,Computers_843,163.52,1,0.15,29.48
+ORD-30289,2024-01-29,2024-02-03,Second Class,CUS-3063,Customer_303,Consumer,East,Office Supplies,Storage,Storage_438,167.83,10,0.0,30.32
+ORD-34890,2025-05-29,2025-06-01,Second Class,CUS-4362,Customer_304,Consumer,East,Furniture,Tables,Tables_787,1945.82,4,0.15,415.49
+ORD-48890,2023-03-11,2023-03-16,Standard Class,CUS-2124,Customer_305,Corporate,East,Office Supplies,Binders,Binders_202,83.01,8,0.25,9.92
+ORD-38534,2025-07-24,2025-07-30,Same Day,CUS-4394,Customer_306,Corporate,West,Furniture,Chairs,Chairs_298,2116.71,7,0.2,229.69
+ORD-17665,2025-08-03,2025-08-04,Second Class,CUS-4538,Customer_307,Corporate,East,Furniture,Furnishings,Furnishings_561,2263.18,2,0.1,757.63
+ORD-85914,2022-11-21,2022-11-26,Same Day,CUS-4817,Customer_308,Home Office,East,Furniture,Bookcases,Bookcases_810,2947.71,9,0.25,485.33
+ORD-81066,2025-02-27,2025-02-28,Second Class,CUS-6383,Customer_309,Consumer,South,Office Supplies,Binders,Binders_679,112.82,5,0.3,-1.24
+ORD-17989,2022-12-12,2022-12-17,Same Day,CUS-3417,Customer_310,Consumer,West,Office Supplies,Pens,Pens_927,414.31,8,0.0,111.05
+ORD-51104,2024-05-23,2024-05-28,First Class,CUS-1046,Customer_311,Home Office,West,Furniture,Furnishings,Furnishings_272,1608.86,9,0.3,296.38
+ORD-17492,2024-06-17,2024-06-18,Same Day,CUS-5542,Customer_312,Consumer,Central,Technology,Accessories,Accessories_352,1898.64,8,0.25,356.08
+ORD-16572,2025-09-01,2025-09-08,First Class,CUS-3370,Customer_313,Corporate,West,Technology,Copiers,Copiers_383,655.76,1,0.0,99.43
+ORD-86569,2025-04-07,2025-04-14,First Class,CUS-3129,Customer_314,Corporate,West,Furniture,Tables,Tables_795,2232.97,1,0.25,595.59
+ORD-72493,2023-11-10,2023-11-11,Same Day,CUS-9850,Customer_315,Corporate,Central,Office Supplies,Pens,Pens_998,125.57,6,0.15,20.05
+ORD-75909,2023-05-24,2023-05-29,First Class,CUS-5106,Customer_316,Consumer,West,Furniture,Furnishings,Furnishings_556,1177.12,1,0.15,85.59
+ORD-79615,2023-09-08,2023-09-10,Standard Class,CUS-3858,Customer_317,Corporate,West,Furniture,Bookcases,Bookcases_598,281.37,6,0.0,43.35
+ORD-30635,2023-12-06,2023-12-11,First Class,CUS-2801,Customer_318,Home Office,West,Office Supplies,Paper,Paper_279,402.67,1,0.25,1.8
+ORD-17455,2025-10-21,2025-10-24,Second Class,CUS-1422,Customer_319,Home Office,West,Office Supplies,Art,Art_183,385.63,7,0.25,83.32
+ORD-76562,2024-11-02,2024-11-05,Same Day,CUS-3159,Customer_320,Consumer,Central,Furniture,Tables,Tables_651,2227.49,2,0.2,81.55
+ORD-20500,2025-01-28,2025-01-29,Standard Class,CUS-1243,Customer_321,Home Office,West,Technology,Accessories,Accessories_851,1532.25,4,0.2,57.52
+ORD-34356,2024-12-11,2024-12-15,Same Day,CUS-6869,Customer_322,Home Office,West,Office Supplies,Paper,Paper_844,95.01,9,0.1,28.99
+ORD-18981,2025-06-05,2025-06-10,Second Class,CUS-4898,Customer_323,Consumer,Central,Technology,Phones,Phones_969,3205.89,8,0.15,411.58
+ORD-87992,2024-03-20,2024-03-26,Second Class,CUS-6304,Customer_324,Corporate,South,Office Supplies,Paper,Paper_932,253.12,9,0.0,27.66
+ORD-18907,2024-02-13,2024-02-16,Second Class,CUS-1258,Customer_325,Corporate,East,Office Supplies,Art,Art_514,97.34,3,0.3,-3.35
+ORD-98501,2023-04-22,2023-04-28,First Class,CUS-3854,Customer_326,Corporate,South,Office Supplies,Binders,Binders_137,346.1,10,0.15,23.41
+ORD-40828,2023-01-11,2023-01-12,First Class,CUS-5347,Customer_327,Consumer,Central,Office Supplies,Pens,Pens_656,495.65,4,0.25,19.34
+ORD-62923,2025-02-15,2025-02-19,Same Day,CUS-1858,Customer_328,Home Office,East,Office Supplies,Storage,Storage_769,376.14,2,0.15,84.46
+ORD-25713,2024-12-19,2024-12-24,Same Day,CUS-3076,Customer_329,Corporate,Central,Technology,Accessories,Accessories_501,3712.93,1,0.2,175.24
+ORD-84668,2025-07-09,2025-07-10,Standard Class,CUS-7897,Customer_330,Corporate,Central,Technology,Accessories,Accessories_237,4754.05,3,0.3,-68.16
+ORD-42271,2022-11-27,2022-12-03,Standard Class,CUS-9619,Customer_331,Consumer,West,Furniture,Chairs,Chairs_506,688.52,8,0.25,140.74
+ORD-85880,2023-10-24,2023-10-25,Same Day,CUS-2862,Customer_332,Corporate,East,Furniture,Chairs,Chairs_778,1740.09,1,0.15,393.81
+ORD-87924,2025-08-27,2025-09-03,First Class,CUS-2041,Customer_333,Consumer,West,Technology,Computers,Computers_875,4899.25,8,0.1,884.79
+ORD-15209,2025-04-14,2025-04-20,Second Class,CUS-8802,Customer_334,Home Office,East,Office Supplies,Binders,Binders_556,90.99,10,0.2,14.99
+ORD-91183,2024-09-16,2024-09-21,Same Day,CUS-8344,Customer_335,Consumer,Central,Technology,Computers,Computers_679,3516.25,1,0.2,329.1
+ORD-20745,2023-05-22,2023-05-27,Standard Class,CUS-6931,Customer_336,Consumer,Central,Office Supplies,Binders,Binders_853,297.05,4,0.15,50.42
+ORD-64948,2023-02-03,2023-02-05,First Class,CUS-9408,Customer_337,Consumer,South,Office Supplies,Storage,Storage_467,297.37,3,0.25,37.77
+ORD-96163,2024-01-14,2024-01-21,Same Day,CUS-2786,Customer_338,Consumer,East,Technology,Computers,Computers_879,3503.47,1,0.25,319.42
+ORD-86503,2025-07-08,2025-07-11,Same Day,CUS-8405,Customer_339,Home Office,West,Furniture,Tables,Tables_164,2795.89,3,0.2,760.4
+ORD-84085,2023-02-11,2023-02-12,First Class,CUS-9254,Customer_340,Home Office,South,Furniture,Bookcases,Bookcases_339,2369.49,1,0.3,-107.06
+ORD-78522,2024-06-04,2024-06-09,Same Day,CUS-4629,Customer_341,Corporate,South,Technology,Computers,Computers_630,327.87,5,0.25,68.74
+ORD-51467,2023-01-14,2023-01-16,First Class,CUS-1710,Customer_342,Home Office,South,Furniture,Furnishings,Furnishings_580,2572.91,2,0.1,224.65
+ORD-44179,2024-08-13,2024-08-14,Second Class,CUS-9543,Customer_343,Home Office,West,Furniture,Chairs,Chairs_140,754.07,8,0.0,255.83
+ORD-36772,2024-01-06,2024-01-11,First Class,CUS-5941,Customer_344,Corporate,South,Office Supplies,Pens,Pens_205,194.69,10,0.3,26.24
+ORD-97782,2023-08-30,2023-09-06,First Class,CUS-8504,Customer_345,Home Office,West,Office Supplies,Art,Art_748,236.25,3,0.3,47.95
+ORD-51180,2025-01-31,2025-02-01,First Class,CUS-1510,Customer_346,Consumer,South,Furniture,Bookcases,Bookcases_692,1494.63,10,0.25,6.36
+ORD-41285,2024-07-12,2024-07-14,Same Day,CUS-1996,Customer_347,Consumer,West,Office Supplies,Art,Art_278,223.24,2,0.1,48.6
+ORD-44814,2024-03-14,2024-03-19,Same Day,CUS-8847,Customer_348,Corporate,Central,Furniture,Furnishings,Furnishings_474,2818.32,2,0.25,353.21
+ORD-61876,2025-01-12,2025-01-18,First Class,CUS-7580,Customer_349,Corporate,Central,Office Supplies,Paper,Paper_629,355.95,2,0.2,75.41
+ORD-27154,2024-09-17,2024-09-21,Same Day,CUS-7984,Customer_350,Corporate,Central,Furniture,Furnishings,Furnishings_328,1930.39,8,0.1,405.94
+ORD-98039,2023-08-21,2023-08-28,Standard Class,CUS-2768,Customer_351,Consumer,Central,Office Supplies,Storage,Storage_461,34.42,10,0.3,3.86
+ORD-94607,2023-04-17,2023-04-22,Standard Class,CUS-9032,Customer_352,Home Office,Central,Furniture,Furnishings,Furnishings_911,2721.35,10,0.3,214.66
+ORD-49321,2024-10-16,2024-10-17,Same Day,CUS-8267,Customer_353,Consumer,South,Furniture,Chairs,Chairs_613,2737.23,4,0.2,253.61
+ORD-69929,2023-05-27,2023-05-31,Same Day,CUS-2204,Customer_354,Corporate,South,Technology,Copiers,Copiers_269,3912.05,2,0.15,663.79
+ORD-51441,2024-02-26,2024-03-04,First Class,CUS-2323,Customer_355,Home Office,South,Technology,Phones,Phones_626,84.79,4,0.3,-1.23
+ORD-19508,2023-04-12,2023-04-15,Second Class,CUS-6277,Customer_356,Home Office,West,Office Supplies,Pens,Pens_316,38.07,7,0.25,10.03
+ORD-11220,2025-01-28,2025-02-04,Same Day,CUS-3430,Customer_357,Consumer,West,Technology,Computers,Computers_261,1164.86,6,0.25,220.54
+ORD-70068,2024-09-06,2024-09-07,Standard Class,CUS-2076,Customer_358,Corporate,West,Furniture,Chairs,Chairs_776,480.91,7,0.2,137.42
+ORD-91416,2024-05-20,2024-05-27,First Class,CUS-3067,Customer_359,Consumer,West,Technology,Copiers,Copiers_930,2024.24,6,0.25,87.08
+ORD-83792,2025-05-18,2025-05-22,Same Day,CUS-5505,Customer_360,Home Office,Central,Furniture,Chairs,Chairs_593,2775.61,2,0.3,593.43
+ORD-23104,2024-02-18,2024-02-21,Standard Class,CUS-9984,Customer_361,Consumer,Central,Office Supplies,Storage,Storage_590,241.31,10,0.3,46.49
+ORD-19602,2024-12-15,2024-12-19,Standard Class,CUS-6327,Customer_362,Consumer,Central,Technology,Computers,Computers_762,116.34,9,0.0,35.27
+ORD-80468,2023-11-23,2023-11-29,Second Class,CUS-7240,Customer_363,Corporate,East,Furniture,Chairs,Chairs_349,919.96,3,0.25,149.5
+ORD-37938,2024-12-25,2024-12-26,First Class,CUS-9692,Customer_364,Corporate,South,Technology,Computers,Computers_687,270.74,6,0.1,39.25
+ORD-76307,2024-07-04,2024-07-11,First Class,CUS-5831,Customer_365,Home Office,West,Office Supplies,Binders,Binders_237,27.78,4,0.15,7.5
+ORD-44760,2024-03-26,2024-04-01,Second Class,CUS-8433,Customer_366,Consumer,West,Office Supplies,Art,Art_140,145.1,1,0.2,21.83
+ORD-27361,2023-04-07,2023-04-08,Second Class,CUS-9282,Customer_367,Consumer,Central,Office Supplies,Binders,Binders_157,145.05,10,0.1,10.34
+ORD-55745,2024-05-09,2024-05-11,First Class,CUS-8048,Customer_368,Consumer,West,Technology,Accessories,Accessories_284,3946.28,3,0.1,567.71
+ORD-19016,2024-12-25,2024-12-31,First Class,CUS-2624,Customer_369,Home Office,West,Office Supplies,Storage,Storage_713,487.67,6,0.1,161.22
+ORD-42018,2023-09-19,2023-09-25,Same Day,CUS-2874,Customer_370,Home Office,South,Office Supplies,Paper,Paper_999,191.89,2,0.3,39.38
+ORD-58434,2025-01-13,2025-01-16,Same Day,CUS-4522,Customer_371,Corporate,Central,Office Supplies,Pens,Pens_187,220.15,2,0.3,53.84
+ORD-47353,2024-11-15,2024-11-16,Second Class,CUS-8046,Customer_372,Corporate,South,Technology,Copiers,Copiers_721,4231.71,5,0.15,903.04
+ORD-30676,2023-05-14,2023-05-15,Same Day,CUS-8398,Customer_373,Corporate,East,Furniture,Furnishings,Furnishings_274,877.6,3,0.2,65.16
+ORD-67433,2024-07-31,2024-08-04,Standard Class,CUS-4743,Customer_374,Consumer,East,Technology,Copiers,Copiers_715,824.09,7,0.2,40.25
+ORD-81200,2024-11-14,2024-11-21,Same Day,CUS-7779,Customer_375,Consumer,East,Technology,Computers,Computers_738,4272.79,3,0.15,346.41
+ORD-49651,2024-05-13,2024-05-14,Same Day,CUS-6553,Customer_376,Corporate,Central,Office Supplies,Art,Art_370,32.79,6,0.0,3.47
+ORD-90173,2023-08-06,2023-08-07,Standard Class,CUS-8430,Customer_377,Consumer,West,Technology,Accessories,Accessories_564,3117.51,9,0.3,209.51
+ORD-95717,2023-11-26,2023-11-30,Second Class,CUS-7532,Customer_378,Corporate,Central,Office Supplies,Art,Art_170,285.38,3,0.1,30.66
+ORD-79329,2025-05-15,2025-05-20,Standard Class,CUS-7815,Customer_379,Home Office,Central,Technology,Copiers,Copiers_494,1762.31,8,0.2,217.64
+ORD-11025,2025-09-22,2025-09-26,Same Day,CUS-2557,Customer_380,Corporate,West,Technology,Phones,Phones_116,1610.19,4,0.15,491.91
+ORD-97538,2023-06-07,2023-06-08,Second Class,CUS-6120,Customer_381,Home Office,South,Technology,Copiers,Copiers_946,3870.7,10,0.15,596.72
+ORD-82692,2023-05-10,2023-05-13,Same Day,CUS-7992,Customer_382,Consumer,East,Technology,Phones,Phones_281,477.8,1,0.3,101.96
+ORD-49240,2023-05-17,2023-05-22,Standard Class,CUS-6120,Customer_383,Corporate,South,Furniture,Chairs,Chairs_998,786.67,3,0.1,182.23
+ORD-96951,2024-09-02,2024-09-09,Standard Class,CUS-5176,Customer_384,Consumer,East,Office Supplies,Art,Art_870,368.9,2,0.15,36.57
+ORD-23577,2025-01-04,2025-01-05,Same Day,CUS-7132,Customer_385,Home Office,Central,Technology,Phones,Phones_593,2764.19,10,0.3,156.89
+ORD-27601,2024-06-27,2024-07-01,First Class,CUS-3500,Customer_386,Home Office,East,Office Supplies,Binders,Binders_717,72.71,7,0.25,0.01
+ORD-44664,2025-01-10,2025-01-17,First Class,CUS-8770,Customer_387,Home Office,Central,Office Supplies,Paper,Paper_893,442.25,3,0.1,66.35
+ORD-25129,2023-04-30,2023-05-06,Standard Class,CUS-2099,Customer_388,Consumer,South,Office Supplies,Storage,Storage_634,202.79,1,0.2,41.22
+ORD-24029,2024-03-19,2024-03-24,Standard Class,CUS-2494,Customer_389,Consumer,Central,Furniture,Bookcases,Bookcases_995,2500.82,8,0.1,179.14
+ORD-82512,2025-10-10,2025-10-12,First Class,CUS-2398,Customer_390,Consumer,South,Technology,Copiers,Copiers_334,3949.18,2,0.0,638.27
+ORD-30374,2024-12-26,2024-12-28,First Class,CUS-2527,Customer_391,Consumer,West,Furniture,Furnishings,Furnishings_458,1910.83,1,0.1,314.2
+ORD-45697,2023-08-19,2023-08-22,Same Day,CUS-8075,Customer_392,Home Office,West,Office Supplies,Art,Art_200,252.3,1,0.1,86.95
+ORD-46930,2024-07-16,2024-07-19,Same Day,CUS-2582,Customer_393,Home Office,West,Furniture,Tables,Tables_360,2940.7,3,0.0,986.48
+ORD-89276,2025-08-13,2025-08-15,First Class,CUS-7105,Customer_394,Corporate,Central,Furniture,Tables,Tables_979,520.4,2,0.1,140.53
+ORD-37607,2023-03-17,2023-03-19,Same Day,CUS-3131,Customer_395,Corporate,West,Technology,Accessories,Accessories_712,3639.52,10,0.15,217.85
+ORD-54942,2025-04-16,2025-04-19,Same Day,CUS-1982,Customer_396,Consumer,East,Office Supplies,Storage,Storage_363,103.68,5,0.2,24.29
+ORD-36685,2025-03-19,2025-03-22,Second Class,CUS-6400,Customer_397,Home Office,South,Technology,Phones,Phones_826,1724.4,7,0.2,406.24
+ORD-93130,2025-07-26,2025-08-02,Same Day,CUS-3002,Customer_398,Home Office,South,Office Supplies,Paper,Paper_691,161.26,8,0.25,25.05
+ORD-44600,2023-04-14,2023-04-17,Standard Class,CUS-7730,Customer_399,Home Office,East,Office Supplies,Paper,Paper_632,474.05,3,0.2,140.84
+ORD-76244,2024-04-06,2024-04-08,Same Day,CUS-6793,Customer_400,Corporate,Central,Technology,Copiers,Copiers_770,4838.41,4,0.2,472.11
+ORD-74032,2025-08-19,2025-08-24,Same Day,CUS-7929,Customer_401,Corporate,Central,Technology,Accessories,Accessories_518,955.93,3,0.3,222.14
+ORD-42914,2023-12-13,2023-12-17,First Class,CUS-1842,Customer_402,Home Office,South,Furniture,Chairs,Chairs_258,163.9,5,0.0,61.37
+ORD-16658,2023-06-15,2023-06-17,Standard Class,CUS-5712,Customer_403,Home Office,West,Furniture,Bookcases,Bookcases_367,2188.02,9,0.1,116.94
+ORD-22097,2024-07-23,2024-07-24,Same Day,CUS-6119,Customer_404,Home Office,Central,Office Supplies,Storage,Storage_678,214.82,8,0.1,39.75
+ORD-93136,2025-01-26,2025-01-29,Same Day,CUS-6761,Customer_405,Corporate,Central,Furniture,Bookcases,Bookcases_796,357.64,7,0.15,113.78
+ORD-65518,2024-12-25,2025-01-01,Second Class,CUS-2697,Customer_406,Home Office,East,Furniture,Tables,Tables_523,2082.89,4,0.1,168.58
+ORD-46265,2024-09-12,2024-09-16,Same Day,CUS-9313,Customer_407,Home Office,East,Office Supplies,Art,Art_594,277.1,3,0.0,73.25
+ORD-15778,2024-09-23,2024-09-27,Same Day,CUS-4485,Customer_408,Consumer,West,Technology,Accessories,Accessories_672,4903.56,10,0.15,1562.7
+ORD-10464,2023-08-13,2023-08-16,Second Class,CUS-3535,Customer_409,Consumer,Central,Office Supplies,Storage,Storage_359,121.43,1,0.15,23.27
+ORD-53719,2024-08-25,2024-08-30,First Class,CUS-8900,Customer_410,Corporate,Central,Furniture,Bookcases,Bookcases_892,1271.54,10,0.3,8.83
+ORD-27146,2023-12-24,2023-12-28,Same Day,CUS-4674,Customer_411,Home Office,East,Office Supplies,Storage,Storage_853,275.85,3,0.25,41.28
+ORD-93507,2024-08-12,2024-08-14,Second Class,CUS-2773,Customer_412,Home Office,Central,Technology,Phones,Phones_865,3968.91,8,0.1,441.87
+ORD-44335,2025-01-31,2025-02-03,Standard Class,CUS-6736,Customer_413,Consumer,South,Technology,Copiers,Copiers_901,2766.75,10,0.3,293.03
+ORD-31178,2024-06-26,2024-07-02,First Class,CUS-7022,Customer_414,Corporate,East,Office Supplies,Binders,Binders_202,310.32,2,0.0,37.93
+ORD-67912,2025-08-09,2025-08-14,Standard Class,CUS-2882,Customer_415,Consumer,West,Technology,Copiers,Copiers_904,1169.43,5,0.3,153.95
+ORD-82309,2024-03-18,2024-03-21,Standard Class,CUS-5564,Customer_416,Consumer,East,Furniture,Chairs,Chairs_264,2556.06,6,0.2,396.28
+ORD-66057,2024-12-17,2024-12-20,Second Class,CUS-4705,Customer_417,Consumer,Central,Furniture,Chairs,Chairs_923,1343.03,7,0.0,432.52
+ORD-83519,2025-01-20,2025-01-23,Same Day,CUS-8030,Customer_418,Consumer,West,Technology,Computers,Computers_582,747.75,1,0.0,216.26
+ORD-11267,2023-06-29,2023-07-04,Second Class,CUS-1430,Customer_419,Home Office,East,Office Supplies,Storage,Storage_190,335.45,9,0.0,88.85
+ORD-24663,2023-12-22,2023-12-27,Second Class,CUS-5381,Customer_420,Home Office,South,Technology,Accessories,Accessories_327,1119.65,4,0.15,259.68
+ORD-19862,2023-11-11,2023-11-17,Second Class,CUS-1474,Customer_421,Consumer,South,Furniture,Chairs,Chairs_723,382.93,4,0.25,6.96
+ORD-29536,2023-01-02,2023-01-08,Second Class,CUS-3955,Customer_422,Corporate,East,Technology,Copiers,Copiers_510,4316.84,2,0.15,878.94
+ORD-81511,2025-06-10,2025-06-16,First Class,CUS-5477,Customer_423,Corporate,South,Office Supplies,Art,Art_393,235.48,9,0.0,35.71
+ORD-14722,2024-01-11,2024-01-15,Same Day,CUS-6062,Customer_424,Corporate,South,Office Supplies,Art,Art_158,377.15,2,0.2,104.72
+ORD-58393,2024-06-26,2024-07-03,Standard Class,CUS-6567,Customer_425,Corporate,South,Technology,Copiers,Copiers_549,1488.41,10,0.15,67.72
+ORD-86350,2023-03-29,2023-04-05,Standard Class,CUS-6751,Customer_426,Consumer,West,Technology,Computers,Computers_970,3945.5,6,0.3,312.14
+ORD-82420,2025-02-22,2025-02-28,Same Day,CUS-1100,Customer_427,Home Office,South,Office Supplies,Art,Art_392,64.85,9,0.3,10.29
+ORD-29410,2025-08-26,2025-08-28,Standard Class,CUS-3972,Customer_428,Corporate,South,Technology,Phones,Phones_902,1812.07,9,0.0,430.2
+ORD-66333,2024-07-20,2024-07-22,Same Day,CUS-3347,Customer_429,Consumer,South,Office Supplies,Art,Art_628,489.25,4,0.2,13.52
+ORD-26704,2024-04-08,2024-04-14,Standard Class,CUS-7566,Customer_430,Corporate,West,Office Supplies,Binders,Binders_729,399.05,8,0.3,46.3
+ORD-15482,2023-09-19,2023-09-25,Second Class,CUS-2140,Customer_431,Corporate,East,Technology,Phones,Phones_468,2511.42,4,0.1,608.99
+ORD-50404,2025-03-23,2025-03-30,Standard Class,CUS-3324,Customer_432,Consumer,Central,Technology,Phones,Phones_261,1731.9,5,0.1,452.26
+ORD-57795,2024-12-19,2024-12-20,Same Day,CUS-1502,Customer_433,Home Office,South,Technology,Accessories,Accessories_898,4367.07,1,0.0,925.72
+ORD-15229,2025-05-15,2025-05-20,Same Day,CUS-2503,Customer_434,Home Office,East,Furniture,Bookcases,Bookcases_785,1680.06,4,0.25,242.09
+ORD-56898,2025-07-16,2025-07-21,Same Day,CUS-9691,Customer_435,Consumer,South,Furniture,Furnishings,Furnishings_700,2299.43,2,0.3,195.93
+ORD-37535,2025-02-05,2025-02-10,Same Day,CUS-4524,Customer_436,Home Office,West,Technology,Phones,Phones_854,3782.83,3,0.25,668.11
+ORD-99399,2025-09-10,2025-09-17,Same Day,CUS-7163,Customer_437,Consumer,East,Office Supplies,Paper,Paper_192,18.79,8,0.0,5.17
+ORD-42706,2025-03-13,2025-03-18,First Class,CUS-7878,Customer_438,Consumer,West,Office Supplies,Pens,Pens_843,71.86,8,0.25,9.54
+ORD-97416,2023-01-22,2023-01-29,First Class,CUS-8432,Customer_439,Consumer,South,Office Supplies,Art,Art_456,333.22,3,0.3,8.28
+ORD-23473,2024-11-13,2024-11-19,Standard Class,CUS-6585,Customer_440,Home Office,South,Furniture,Bookcases,Bookcases_331,568.7,3,0.25,-13.87
+ORD-56357,2023-05-01,2023-05-02,Same Day,CUS-3578,Customer_441,Consumer,West,Office Supplies,Binders,Binders_565,135.19,1,0.25,3.68
+ORD-83385,2024-03-30,2024-04-05,Standard Class,CUS-7062,Customer_442,Corporate,Central,Furniture,Chairs,Chairs_367,2845.25,1,0.15,171.06
+ORD-63264,2024-11-04,2024-11-06,Same Day,CUS-6105,Customer_443,Home Office,West,Technology,Copiers,Copiers_618,2822.9,6,0.2,380.32
+ORD-91351,2023-02-06,2023-02-11,Same Day,CUS-6314,Customer_444,Home Office,South,Technology,Phones,Phones_615,3766.11,5,0.0,1068.36
+ORD-30257,2025-02-03,2025-02-10,First Class,CUS-2391,Customer_445,Home Office,West,Furniture,Bookcases,Bookcases_219,1718.14,4,0.1,195.74
+ORD-41029,2024-09-17,2024-09-24,First Class,CUS-1861,Customer_446,Home Office,Central,Office Supplies,Pens,Pens_997,280.73,7,0.25,72.07
+ORD-31299,2025-04-07,2025-04-08,Second Class,CUS-3549,Customer_447,Corporate,West,Office Supplies,Art,Art_356,56.13,5,0.0,5.73
+ORD-33206,2022-11-29,2022-11-30,First Class,CUS-3579,Customer_448,Home Office,Central,Office Supplies,Storage,Storage_486,178.39,6,0.15,45.79
+ORD-64040,2024-04-20,2024-04-22,Second Class,CUS-1815,Customer_449,Home Office,Central,Office Supplies,Storage,Storage_888,148.39,10,0.15,31.54
+ORD-13248,2025-09-18,2025-09-24,Second Class,CUS-2336,Customer_450,Consumer,West,Technology,Accessories,Accessories_894,1984.11,8,0.25,172.75
+ORD-33509,2025-10-05,2025-10-10,Second Class,CUS-5458,Customer_451,Home Office,West,Furniture,Furnishings,Furnishings_700,2415.2,1,0.3,-84.18
+ORD-53540,2024-02-03,2024-02-07,Second Class,CUS-8259,Customer_452,Corporate,East,Technology,Copiers,Copiers_219,1891.07,2,0.2,355.99
+ORD-63964,2024-12-13,2024-12-17,Second Class,CUS-7947,Customer_453,Corporate,South,Furniture,Chairs,Chairs_491,1409.92,1,0.3,92.61
+ORD-97806,2025-06-13,2025-06-20,Standard Class,CUS-8957,Customer_454,Corporate,Central,Office Supplies,Binders,Binders_793,204.72,9,0.3,47.27
+ORD-42527,2025-08-28,2025-08-30,First Class,CUS-8242,Customer_455,Corporate,East,Office Supplies,Binders,Binders_919,55.77,3,0.1,11.86
+ORD-44970,2024-10-14,2024-10-15,Second Class,CUS-7785,Customer_456,Home Office,West,Furniture,Furnishings,Furnishings_461,1379.11,3,0.2,388.76
+ORD-30866,2025-07-23,2025-07-24,Same Day,CUS-5475,Customer_457,Home Office,South,Office Supplies,Art,Art_109,105.85,1,0.1,12.29
+ORD-24168,2024-07-05,2024-07-09,First Class,CUS-4531,Customer_458,Corporate,East,Office Supplies,Pens,Pens_354,101.49,8,0.1,27.17
+ORD-60140,2023-05-02,2023-05-03,First Class,CUS-9394,Customer_459,Corporate,Central,Furniture,Chairs,Chairs_508,372.7,9,0.0,106.28
+ORD-15075,2023-08-25,2023-08-28,Second Class,CUS-2864,Customer_460,Home Office,East,Office Supplies,Pens,Pens_177,184.77,2,0.1,50.22
+ORD-71694,2024-08-07,2024-08-10,Standard Class,CUS-6655,Customer_461,Corporate,Central,Office Supplies,Binders,Binders_587,381.17,2,0.1,43.61
+ORD-39154,2025-05-28,2025-06-04,Second Class,CUS-8043,Customer_462,Consumer,West,Furniture,Bookcases,Bookcases_323,901.68,4,0.15,202.43
+ORD-36158,2024-01-05,2024-01-10,Standard Class,CUS-2816,Customer_463,Corporate,South,Office Supplies,Pens,Pens_287,163.05,8,0.2,24.36
+ORD-70332,2025-07-24,2025-07-27,Same Day,CUS-5640,Customer_464,Corporate,South,Office Supplies,Binders,Binders_610,324.91,10,0.2,72.41
+ORD-55830,2025-07-10,2025-07-11,First Class,CUS-8972,Customer_465,Consumer,South,Office Supplies,Binders,Binders_340,105.96,10,0.15,13.05
+ORD-50001,2025-04-23,2025-04-29,Same Day,CUS-9633,Customer_466,Consumer,West,Office Supplies,Binders,Binders_993,449.51,6,0.25,108.79
+ORD-39831,2025-05-22,2025-05-25,Standard Class,CUS-6053,Customer_467,Home Office,Central,Furniture,Tables,Tables_334,1608.55,7,0.0,201.54
+ORD-39219,2023-03-25,2023-03-28,Standard Class,CUS-1744,Customer_468,Home Office,West,Technology,Computers,Computers_956,2265.63,4,0.2,548.64
+ORD-13101,2023-02-07,2023-02-14,Same Day,CUS-4612,Customer_469,Consumer,South,Office Supplies,Pens,Pens_259,283.33,6,0.25,66.13
+ORD-96511,2023-07-01,2023-07-02,Standard Class,CUS-7475,Customer_470,Consumer,West,Technology,Phones,Phones_180,871.87,4,0.15,235.56
+ORD-35313,2024-10-10,2024-10-16,Same Day,CUS-1897,Customer_471,Home Office,West,Office Supplies,Storage,Storage_728,310.6,2,0.3,32.25
+ORD-62227,2023-06-19,2023-06-25,First Class,CUS-1125,Customer_472,Corporate,West,Technology,Phones,Phones_968,1847.35,6,0.0,427.69
+ORD-53025,2023-10-10,2023-10-16,Same Day,CUS-4349,Customer_473,Consumer,Central,Furniture,Bookcases,Bookcases_735,2701.84,4,0.15,875.07
+ORD-46517,2024-03-21,2024-03-26,First Class,CUS-5938,Customer_474,Home Office,East,Furniture,Furnishings,Furnishings_688,589.68,2,0.25,25.8
+ORD-19099,2023-10-31,2023-11-05,Same Day,CUS-4460,Customer_475,Corporate,East,Furniture,Furnishings,Furnishings_287,1570.45,4,0.2,257.65
+ORD-46585,2023-10-01,2023-10-04,Standard Class,CUS-3248,Customer_476,Consumer,West,Office Supplies,Pens,Pens_507,303.08,7,0.2,60.98
+ORD-56025,2025-03-30,2025-04-03,Same Day,CUS-5186,Customer_477,Corporate,East,Technology,Computers,Computers_155,215.25,4,0.3,34.5
+ORD-94080,2024-02-25,2024-03-03,Standard Class,CUS-5742,Customer_478,Home Office,East,Office Supplies,Storage,Storage_589,188.21,7,0.1,20.93
+ORD-76768,2025-02-14,2025-02-20,Same Day,CUS-6375,Customer_479,Consumer,West,Office Supplies,Paper,Paper_614,368.99,4,0.15,81.62
+ORD-62386,2023-11-20,2023-11-22,Same Day,CUS-2965,Customer_480,Corporate,West,Furniture,Furnishings,Furnishings_981,2479.09,2,0.1,732.6
+ORD-99065,2025-04-11,2025-04-15,Second Class,CUS-1126,Customer_481,Consumer,South,Office Supplies,Binders,Binders_568,163.45,8,0.15,6.54
+ORD-80282,2023-01-06,2023-01-12,Standard Class,CUS-9149,Customer_482,Corporate,East,Technology,Copiers,Copiers_423,4003.04,10,0.2,1094.66
+ORD-53404,2023-12-17,2023-12-21,Second Class,CUS-8055,Customer_483,Home Office,Central,Office Supplies,Paper,Paper_112,484.2,8,0.3,-19.92
+ORD-13617,2025-04-05,2025-04-09,Standard Class,CUS-3878,Customer_484,Home Office,West,Office Supplies,Binders,Binders_488,429.87,1,0.15,56.65
+ORD-25118,2022-11-17,2022-11-23,Second Class,CUS-3116,Customer_485,Consumer,South,Office Supplies,Paper,Paper_433,67.65,7,0.15,2.01
+ORD-44237,2024-01-21,2024-01-23,First Class,CUS-7229,Customer_486,Corporate,Central,Furniture,Bookcases,Bookcases_291,2245.22,3,0.0,276.48
+ORD-33405,2024-05-31,2024-06-07,Same Day,CUS-9725,Customer_487,Consumer,East,Office Supplies,Pens,Pens_342,166.64,4,0.3,37.22
+ORD-86099,2023-03-16,2023-03-21,Standard Class,CUS-4770,Customer_488,Consumer,South,Furniture,Furnishings,Furnishings_727,2966.41,10,0.25,241.64
+ORD-44795,2023-06-04,2023-06-11,Standard Class,CUS-9196,Customer_489,Corporate,West,Furniture,Bookcases,Bookcases_288,1507.54,8,0.0,342.86
+ORD-15014,2023-11-25,2023-11-28,Same Day,CUS-6802,Customer_490,Corporate,Central,Furniture,Furnishings,Furnishings_315,455.06,3,0.3,6.65
+ORD-24208,2024-09-05,2024-09-07,Standard Class,CUS-2180,Customer_491,Corporate,West,Furniture,Bookcases,Bookcases_473,2203.04,7,0.3,284.48
+ORD-88193,2025-06-02,2025-06-03,Standard Class,CUS-7505,Customer_492,Home Office,East,Furniture,Bookcases,Bookcases_561,1036.73,6,0.0,288.67
+ORD-66959,2024-04-28,2024-05-04,Second Class,CUS-1693,Customer_493,Consumer,Central,Technology,Computers,Computers_689,4985.54,3,0.3,307.41
+ORD-55309,2025-08-06,2025-08-11,Standard Class,CUS-8147,Customer_494,Consumer,East,Office Supplies,Binders,Binders_933,490.09,8,0.3,24.46
+ORD-51114,2024-08-10,2024-08-15,First Class,CUS-1307,Customer_495,Home Office,East,Technology,Accessories,Accessories_923,3297.86,4,0.1,1040.44
+ORD-67199,2025-01-11,2025-01-16,First Class,CUS-8532,Customer_496,Corporate,South,Technology,Copiers,Copiers_976,692.64,6,0.15,96.96
+ORD-89457,2025-01-19,2025-01-24,Same Day,CUS-2275,Customer_497,Home Office,West,Furniture,Tables,Tables_249,2091.9,5,0.25,257.41
+ORD-77033,2023-06-29,2023-07-02,Standard Class,CUS-6129,Customer_498,Home Office,Central,Office Supplies,Binders,Binders_584,55.58,4,0.2,4.72
+ORD-25157,2024-10-28,2024-11-04,Same Day,CUS-8033,Customer_499,Home Office,East,Technology,Computers,Computers_531,195.35,6,0.15,50.99
+ORD-60488,2025-06-02,2025-06-07,First Class,CUS-7626,Customer_500,Consumer,East,Furniture,Tables,Tables_969,2486.58,3,0.3,172.16
+ORD-85574,2023-10-27,2023-11-03,Standard Class,CUS-7843,Customer_501,Home Office,Central,Office Supplies,Art,Art_646,112.78,1,0.3,11.74
+ORD-34914,2024-07-09,2024-07-14,Standard Class,CUS-5743,Customer_502,Consumer,East,Office Supplies,Pens,Pens_904,195.72,10,0.15,19.77
+ORD-43386,2023-04-30,2023-05-06,Same Day,CUS-2887,Customer_503,Consumer,South,Furniture,Bookcases,Bookcases_356,2923.03,1,0.3,719.94
+ORD-15817,2023-08-09,2023-08-12,First Class,CUS-7636,Customer_504,Consumer,South,Office Supplies,Art,Art_148,175.05,5,0.0,32.81
+ORD-67154,2023-07-07,2023-07-09,Standard Class,CUS-1341,Customer_505,Corporate,South,Furniture,Chairs,Chairs_807,959.82,3,0.25,197.94
+ORD-10221,2024-07-25,2024-07-26,Same Day,CUS-6321,Customer_506,Consumer,South,Technology,Phones,Phones_320,4595.13,2,0.1,819.08
+ORD-78146,2023-11-17,2023-11-20,First Class,CUS-3815,Customer_507,Consumer,East,Furniture,Furnishings,Furnishings_959,421.17,8,0.2,26.06
+ORD-80575,2023-08-24,2023-08-29,Same Day,CUS-8538,Customer_508,Corporate,Central,Office Supplies,Paper,Paper_560,382.2,8,0.2,91.7
+ORD-97900,2025-01-11,2025-01-15,Second Class,CUS-6928,Customer_509,Consumer,Central,Office Supplies,Pens,Pens_366,494.15,7,0.0,98.87
+ORD-35825,2023-08-17,2023-08-22,Standard Class,CUS-2443,Customer_510,Home Office,Central,Furniture,Bookcases,Bookcases_673,2713.76,3,0.2,704.38
+ORD-57739,2025-01-01,2025-01-05,Second Class,CUS-8155,Customer_511,Home Office,Central,Office Supplies,Pens,Pens_452,329.32,6,0.15,98.66
+ORD-66531,2023-11-23,2023-11-27,First Class,CUS-2734,Customer_512,Consumer,West,Technology,Copiers,Copiers_224,1604.6,4,0.15,454.02
+ORD-19171,2023-10-28,2023-11-02,Second Class,CUS-4986,Customer_513,Corporate,Central,Furniture,Tables,Tables_690,837.53,5,0.0,92.55
+ORD-97062,2023-10-15,2023-10-19,Second Class,CUS-8138,Customer_514,Home Office,West,Office Supplies,Art,Art_278,411.44,10,0.1,117.76
+ORD-53279,2024-06-21,2024-06-23,First Class,CUS-7560,Customer_515,Corporate,West,Furniture,Bookcases,Bookcases_432,2651.48,3,0.15,393.48
+ORD-91678,2023-11-26,2023-11-29,Same Day,CUS-9584,Customer_516,Corporate,South,Office Supplies,Art,Art_599,267.46,10,0.1,83.48
+ORD-51145,2025-05-19,2025-05-24,Second Class,CUS-2288,Customer_517,Home Office,West,Office Supplies,Storage,Storage_180,129.73,3,0.1,31.32
+ORD-96951,2023-02-25,2023-03-04,Same Day,CUS-7484,Customer_518,Corporate,East,Furniture,Bookcases,Bookcases_574,427.54,10,0.2,106.92
+ORD-26334,2024-11-12,2024-11-13,Second Class,CUS-6083,Customer_519,Home Office,West,Office Supplies,Binders,Binders_989,52.72,9,0.3,5.26
+ORD-49363,2025-07-27,2025-07-29,Same Day,CUS-6562,Customer_520,Corporate,South,Technology,Accessories,Accessories_531,3609.43,4,0.15,669.58
+ORD-76469,2023-12-12,2023-12-19,First Class,CUS-4630,Customer_521,Home Office,West,Office Supplies,Art,Art_685,215.86,2,0.3,-1.44
+ORD-50538,2025-01-02,2025-01-07,Second Class,CUS-6456,Customer_522,Consumer,East,Furniture,Chairs,Chairs_181,2725.54,7,0.2,641.04
+ORD-97410,2025-09-08,2025-09-14,First Class,CUS-3754,Customer_523,Home Office,East,Technology,Accessories,Accessories_333,3711.37,9,0.0,838.09
+ORD-63528,2025-08-17,2025-08-21,Second Class,CUS-2251,Customer_524,Home Office,East,Furniture,Bookcases,Bookcases_768,654.66,8,0.15,114.58
+ORD-52753,2025-08-11,2025-08-15,First Class,CUS-9363,Customer_525,Home Office,South,Furniture,Bookcases,Bookcases_719,1879.95,4,0.0,630.78
+ORD-62743,2025-05-05,2025-05-09,First Class,CUS-2868,Customer_526,Home Office,South,Office Supplies,Storage,Storage_377,223.4,10,0.2,40.13
+ORD-48752,2023-10-16,2023-10-17,Second Class,CUS-9693,Customer_527,Corporate,Central,Furniture,Bookcases,Bookcases_865,1774.02,8,0.2,107.03
+ORD-82667,2023-01-10,2023-01-17,Second Class,CUS-9355,Customer_528,Consumer,South,Office Supplies,Art,Art_561,371.65,8,0.3,47.23
+ORD-26683,2024-02-02,2024-02-05,Second Class,CUS-4176,Customer_529,Home Office,East,Furniture,Tables,Tables_288,2437.97,5,0.2,298.14
+ORD-35144,2023-01-13,2023-01-16,Standard Class,CUS-6724,Customer_530,Corporate,East,Technology,Computers,Computers_845,4226.5,1,0.15,701.0
+ORD-65108,2024-02-11,2024-02-16,Same Day,CUS-6752,Customer_531,Consumer,South,Technology,Accessories,Accessories_861,1307.18,7,0.3,-54.26
+ORD-97153,2024-06-21,2024-06-23,Standard Class,CUS-3419,Customer_532,Consumer,West,Office Supplies,Paper,Paper_315,25.25,4,0.2,1.59
+ORD-59695,2025-06-01,2025-06-06,Standard Class,CUS-4871,Customer_533,Consumer,South,Technology,Copiers,Copiers_205,3709.51,4,0.0,683.71
+ORD-98777,2025-08-18,2025-08-23,First Class,CUS-2684,Customer_534,Consumer,South,Technology,Phones,Phones_999,576.4,6,0.1,152.11
+ORD-32810,2025-09-19,2025-09-20,Second Class,CUS-3399,Customer_535,Home Office,East,Furniture,Chairs,Chairs_126,1013.27,7,0.3,-47.17
+ORD-90676,2023-06-29,2023-07-02,Same Day,CUS-5193,Customer_536,Home Office,Central,Furniture,Chairs,Chairs_206,111.07,10,0.15,16.4
+ORD-84593,2024-11-28,2024-12-03,First Class,CUS-4232,Customer_537,Corporate,East,Furniture,Tables,Tables_186,2076.84,4,0.25,523.8
+ORD-49446,2023-02-01,2023-02-08,Standard Class,CUS-3842,Customer_538,Corporate,Central,Office Supplies,Storage,Storage_416,91.89,10,0.0,12.27
+ORD-63225,2025-04-29,2025-05-04,Second Class,CUS-3504,Customer_539,Corporate,East,Technology,Computers,Computers_855,3293.65,3,0.15,592.62
+ORD-81819,2024-01-29,2024-02-02,First Class,CUS-2234,Customer_540,Consumer,South,Furniture,Furnishings,Furnishings_741,2976.05,10,0.2,702.22
+ORD-10053,2023-06-05,2023-06-11,Second Class,CUS-3902,Customer_541,Consumer,East,Technology,Computers,Computers_639,409.72,1,0.25,105.61
+ORD-49829,2024-03-28,2024-03-31,First Class,CUS-9095,Customer_542,Home Office,East,Technology,Phones,Phones_135,431.54,7,0.3,75.1
+ORD-47606,2023-01-13,2023-01-17,Second Class,CUS-8601,Customer_543,Consumer,East,Office Supplies,Pens,Pens_981,176.79,1,0.25,33.8
+ORD-37549,2024-04-29,2024-05-02,Standard Class,CUS-8354,Customer_544,Consumer,South,Furniture,Furnishings,Furnishings_578,2612.52,1,0.3,517.14
+ORD-66346,2023-05-05,2023-05-09,Same Day,CUS-6295,Customer_545,Consumer,South,Office Supplies,Pens,Pens_661,115.61,8,0.15,18.37
+ORD-86019,2023-07-06,2023-07-13,Standard Class,CUS-6179,Customer_546,Corporate,South,Furniture,Tables,Tables_814,1145.1,9,0.2,276.83
+ORD-89516,2024-03-07,2024-03-09,Same Day,CUS-3473,Customer_547,Corporate,South,Office Supplies,Binders,Binders_705,43.57,1,0.3,-2.07
+ORD-95813,2024-10-26,2024-11-02,Second Class,CUS-8205,Customer_548,Home Office,Central,Office Supplies,Storage,Storage_746,383.95,7,0.0,144.89
+ORD-52237,2025-04-02,2025-04-04,First Class,CUS-2118,Customer_549,Consumer,Central,Office Supplies,Art,Art_545,210.07,9,0.0,48.94
+ORD-70946,2023-08-20,2023-08-27,Standard Class,CUS-8682,Customer_550,Consumer,West,Office Supplies,Art,Art_417,382.03,7,0.3,44.32
+ORD-67905,2024-01-05,2024-01-12,Same Day,CUS-8245,Customer_551,Home Office,South,Furniture,Furnishings,Furnishings_652,2720.46,8,0.3,72.0
+ORD-67954,2024-01-05,2024-01-12,Standard Class,CUS-5961,Customer_552,Consumer,Central,Technology,Phones,Phones_552,1202.18,2,0.1,327.91
+ORD-98555,2023-03-09,2023-03-14,Same Day,CUS-5500,Customer_553,Consumer,East,Furniture,Bookcases,Bookcases_522,2441.45,8,0.3,-65.94
+ORD-38010,2024-10-26,2024-10-31,Standard Class,CUS-1920,Customer_554,Corporate,South,Furniture,Tables,Tables_410,271.37,8,0.2,71.04
+ORD-77000,2024-06-05,2024-06-10,Same Day,CUS-6766,Customer_555,Home Office,West,Technology,Phones,Phones_635,4499.29,4,0.3,892.82
+ORD-72021,2023-10-18,2023-10-21,Same Day,CUS-9312,Customer_556,Home Office,West,Technology,Accessories,Accessories_393,3271.3,2,0.1,375.6
+ORD-32241,2024-06-29,2024-07-02,Second Class,CUS-2215,Customer_557,Home Office,West,Furniture,Chairs,Chairs_804,2635.26,9,0.0,903.36
+ORD-96356,2024-05-08,2024-05-15,Same Day,CUS-6085,Customer_558,Home Office,East,Furniture,Furnishings,Furnishings_406,100.55,1,0.2,23.72
+ORD-21114,2025-09-26,2025-10-02,Second Class,CUS-8565,Customer_559,Corporate,Central,Technology,Copiers,Copiers_917,886.95,7,0.1,212.57
+ORD-47196,2023-05-22,2023-05-24,Same Day,CUS-8404,Customer_560,Corporate,East,Furniture,Tables,Tables_915,1230.3,4,0.3,76.35
+ORD-77561,2025-02-27,2025-02-28,First Class,CUS-1616,Customer_561,Consumer,South,Technology,Accessories,Accessories_293,1928.54,3,0.15,205.29
+ORD-97012,2024-05-28,2024-06-04,First Class,CUS-1932,Customer_562,Consumer,West,Furniture,Furnishings,Furnishings_504,757.52,6,0.15,71.61
+ORD-92960,2023-07-25,2023-07-31,First Class,CUS-7041,Customer_563,Consumer,East,Technology,Computers,Computers_832,1938.98,5,0.25,136.86
+ORD-91167,2023-08-06,2023-08-08,Same Day,CUS-5703,Customer_564,Consumer,East,Office Supplies,Storage,Storage_948,73.14,4,0.0,27.14
+ORD-53933,2023-09-03,2023-09-09,Second Class,CUS-2257,Customer_565,Corporate,Central,Furniture,Tables,Tables_369,1297.01,2,0.0,159.91
+ORD-22240,2024-08-28,2024-09-04,Second Class,CUS-2479,Customer_566,Home Office,Central,Technology,Copiers,Copiers_740,4021.65,1,0.1,1201.11
+ORD-40784,2024-03-28,2024-04-04,Same Day,CUS-9307,Customer_567,Corporate,West,Technology,Accessories,Accessories_391,2421.4,8,0.1,374.51
+ORD-98184,2025-01-20,2025-01-24,First Class,CUS-7299,Customer_568,Consumer,East,Office Supplies,Art,Art_928,18.82,5,0.25,2.47
+ORD-50687,2023-08-26,2023-08-31,First Class,CUS-8581,Customer_569,Corporate,East,Furniture,Furnishings,Furnishings_292,1322.19,3,0.3,249.03
+ORD-39444,2024-05-11,2024-05-17,Second Class,CUS-1672,Customer_570,Home Office,Central,Technology,Computers,Computers_239,184.52,8,0.3,39.73
+ORD-36100,2025-03-05,2025-03-09,First Class,CUS-8368,Customer_571,Home Office,East,Furniture,Chairs,Chairs_752,2902.11,10,0.1,445.28
+ORD-29313,2025-05-21,2025-05-22,Standard Class,CUS-4084,Customer_572,Corporate,East,Furniture,Furnishings,Furnishings_378,469.62,10,0.25,53.33
+ORD-13201,2023-05-17,2023-05-21,Second Class,CUS-6267,Customer_573,Corporate,East,Office Supplies,Art,Art_603,356.77,1,0.3,26.53
+ORD-16057,2025-09-28,2025-10-04,First Class,CUS-8792,Customer_574,Corporate,Central,Technology,Accessories,Accessories_119,4865.24,8,0.2,19.34
+ORD-42092,2024-05-30,2024-06-05,Second Class,CUS-9214,Customer_575,Consumer,West,Technology,Phones,Phones_647,4138.89,8,0.15,470.93
+ORD-72277,2024-12-02,2024-12-06,Standard Class,CUS-3471,Customer_576,Corporate,South,Technology,Computers,Computers_204,3511.61,3,0.2,483.75
+ORD-90120,2025-08-03,2025-08-06,Second Class,CUS-2013,Customer_577,Corporate,West,Furniture,Bookcases,Bookcases_228,2534.44,7,0.2,312.57
+ORD-19545,2022-11-13,2022-11-20,Second Class,CUS-8381,Customer_578,Corporate,South,Office Supplies,Storage,Storage_844,491.08,3,0.3,81.8
+ORD-69692,2023-05-17,2023-05-23,Second Class,CUS-2695,Customer_579,Home Office,East,Technology,Computers,Computers_192,3125.66,6,0.1,517.11
+ORD-64321,2025-06-03,2025-06-09,Second Class,CUS-6626,Customer_580,Home Office,West,Technology,Phones,Phones_605,2817.96,8,0.15,484.16
+ORD-92544,2024-11-10,2024-11-17,Standard Class,CUS-2381,Customer_581,Consumer,South,Technology,Accessories,Accessories_530,3159.78,1,0.1,565.23
+ORD-85454,2023-03-17,2023-03-24,Same Day,CUS-9266,Customer_582,Consumer,Central,Furniture,Furnishings,Furnishings_480,1644.76,2,0.3,283.21
+ORD-35485,2025-11-06,2025-11-10,Second Class,CUS-3827,Customer_583,Home Office,Central,Furniture,Chairs,Chairs_438,1941.76,7,0.25,454.16
+ORD-60328,2024-01-28,2024-02-01,Second Class,CUS-1641,Customer_584,Home Office,West,Technology,Computers,Computers_157,2276.72,6,0.15,420.21
+ORD-74799,2024-01-15,2024-01-19,First Class,CUS-5059,Customer_585,Home Office,West,Furniture,Furnishings,Furnishings_173,733.49,9,0.15,192.05
+ORD-62383,2024-05-10,2024-05-13,Second Class,CUS-8172,Customer_586,Corporate,East,Office Supplies,Storage,Storage_285,68.92,1,0.1,9.58
+ORD-41979,2024-06-10,2024-06-13,First Class,CUS-8199,Customer_587,Corporate,West,Technology,Accessories,Accessories_936,388.29,5,0.0,101.89
+ORD-29342,2023-08-02,2023-08-07,Same Day,CUS-9586,Customer_588,Home Office,East,Furniture,Chairs,Chairs_224,863.62,7,0.2,89.44
+ORD-95990,2025-07-28,2025-08-04,Standard Class,CUS-9564,Customer_589,Corporate,East,Office Supplies,Binders,Binders_494,32.6,5,0.15,4.87
+ORD-10726,2024-10-11,2024-10-17,Standard Class,CUS-3600,Customer_590,Corporate,Central,Furniture,Tables,Tables_855,1744.8,10,0.1,470.61
+ORD-23970,2023-02-15,2023-02-16,Same Day,CUS-6962,Customer_591,Consumer,Central,Technology,Computers,Computers_571,1454.95,9,0.2,384.83
+ORD-65724,2023-05-30,2023-06-05,Standard Class,CUS-7108,Customer_592,Home Office,South,Office Supplies,Paper,Paper_633,414.02,10,0.2,15.09
+ORD-38683,2025-06-06,2025-06-07,Same Day,CUS-5634,Customer_593,Home Office,Central,Office Supplies,Binders,Binders_584,46.38,4,0.25,7.67
+ORD-33053,2023-07-20,2023-07-27,Same Day,CUS-7347,Customer_594,Corporate,Central,Furniture,Bookcases,Bookcases_430,756.42,2,0.1,169.92
+ORD-77889,2023-09-27,2023-10-01,Same Day,CUS-7697,Customer_595,Home Office,West,Technology,Phones,Phones_862,3664.72,10,0.0,496.66
+ORD-70889,2025-05-30,2025-05-31,Standard Class,CUS-6543,Customer_596,Consumer,Central,Office Supplies,Art,Art_225,303.42,6,0.0,49.63
+ORD-16582,2025-04-02,2025-04-04,First Class,CUS-1857,Customer_597,Consumer,South,Furniture,Furnishings,Furnishings_753,287.02,1,0.25,19.6
+ORD-83060,2023-08-05,2023-08-11,Same Day,CUS-6482,Customer_598,Consumer,West,Furniture,Tables,Tables_469,2643.99,9,0.3,0.21
+ORD-42662,2024-07-18,2024-07-20,Second Class,CUS-2079,Customer_599,Home Office,South,Technology,Computers,Computers_215,4392.45,6,0.25,211.36
+ORD-25906,2024-05-22,2024-05-23,Standard Class,CUS-6401,Customer_600,Home Office,Central,Technology,Copiers,Copiers_432,1685.52,1,0.3,51.04
+ORD-69829,2024-11-15,2024-11-18,Same Day,CUS-2548,Customer_601,Home Office,South,Technology,Computers,Computers_913,1735.01,2,0.1,261.47
+ORD-27477,2023-04-25,2023-04-28,Same Day,CUS-7333,Customer_602,Home Office,West,Furniture,Chairs,Chairs_505,2968.18,7,0.0,964.12
+ORD-70901,2023-10-12,2023-10-13,Second Class,CUS-5655,Customer_603,Home Office,East,Technology,Phones,Phones_143,3149.57,6,0.2,540.38
+ORD-97500,2025-01-27,2025-02-02,First Class,CUS-5128,Customer_604,Consumer,South,Office Supplies,Storage,Storage_804,270.35,8,0.1,93.51
+ORD-79616,2024-07-25,2024-07-31,First Class,CUS-3463,Customer_605,Corporate,South,Office Supplies,Binders,Binders_480,420.69,10,0.15,62.86
+ORD-83259,2024-03-01,2024-03-05,First Class,CUS-6461,Customer_606,Consumer,West,Technology,Computers,Computers_261,1462.19,1,0.3,257.58
+ORD-88047,2023-05-13,2023-05-19,Same Day,CUS-2335,Customer_607,Home Office,West,Furniture,Chairs,Chairs_802,1344.63,6,0.1,418.77
+ORD-51588,2023-05-21,2023-05-22,Same Day,CUS-3317,Customer_608,Consumer,South,Office Supplies,Pens,Pens_877,141.21,6,0.0,42.88
+ORD-68008,2024-01-19,2024-01-23,Same Day,CUS-6731,Customer_609,Home Office,Central,Office Supplies,Paper,Paper_161,396.69,3,0.2,49.01
+ORD-90301,2023-04-16,2023-04-18,Standard Class,CUS-6082,Customer_610,Home Office,South,Furniture,Tables,Tables_818,1762.71,9,0.25,354.44
+ORD-76162,2024-02-14,2024-02-19,Second Class,CUS-7421,Customer_611,Consumer,West,Office Supplies,Paper,Paper_228,332.82,2,0.2,20.34
+ORD-65933,2025-05-07,2025-05-08,Same Day,CUS-3112,Customer_612,Home Office,East,Furniture,Tables,Tables_424,831.69,9,0.25,60.93
+ORD-81810,2022-11-24,2022-11-30,Second Class,CUS-2388,Customer_613,Corporate,East,Office Supplies,Pens,Pens_924,117.91,4,0.15,22.29
+ORD-68446,2024-10-11,2024-10-18,Second Class,CUS-6072,Customer_614,Home Office,Central,Furniture,Tables,Tables_121,1516.29,3,0.1,337.56
+ORD-30861,2023-07-12,2023-07-19,First Class,CUS-7171,Customer_615,Corporate,South,Office Supplies,Storage,Storage_466,371.41,6,0.0,39.61
+ORD-72216,2025-03-21,2025-03-27,Standard Class,CUS-6381,Customer_616,Corporate,East,Office Supplies,Binders,Binders_356,267.37,4,0.15,82.49
+ORD-68991,2023-08-05,2023-08-09,Same Day,CUS-3093,Customer_617,Home Office,South,Technology,Copiers,Copiers_823,211.6,9,0.1,54.8
+ORD-43972,2023-04-02,2023-04-04,First Class,CUS-9624,Customer_618,Consumer,West,Furniture,Bookcases,Bookcases_655,2618.8,2,0.25,323.97
+ORD-42406,2024-12-31,2025-01-01,First Class,CUS-2531,Customer_619,Corporate,East,Office Supplies,Storage,Storage_294,41.7,8,0.0,15.84
+ORD-93579,2023-06-05,2023-06-06,Same Day,CUS-7937,Customer_620,Consumer,Central,Office Supplies,Binders,Binders_656,478.35,10,0.0,110.85
+ORD-46347,2024-08-10,2024-08-13,Second Class,CUS-9331,Customer_621,Corporate,West,Furniture,Bookcases,Bookcases_849,172.91,4,0.3,42.21
+ORD-78327,2024-07-12,2024-07-14,First Class,CUS-6928,Customer_622,Home Office,Central,Furniture,Bookcases,Bookcases_988,2113.91,4,0.25,272.03
+ORD-73517,2024-12-30,2025-01-06,Second Class,CUS-1298,Customer_623,Home Office,West,Office Supplies,Art,Art_264,50.28,6,0.2,1.72
+ORD-92149,2023-08-07,2023-08-13,Standard Class,CUS-6940,Customer_624,Corporate,East,Technology,Computers,Computers_560,4557.85,6,0.2,1045.75
+ORD-41358,2023-08-27,2023-08-28,Second Class,CUS-6060,Customer_625,Home Office,Central,Furniture,Bookcases,Bookcases_654,1446.86,5,0.3,222.34
+ORD-45992,2025-10-29,2025-11-03,Standard Class,CUS-3953,Customer_626,Corporate,Central,Furniture,Furnishings,Furnishings_100,498.82,9,0.2,115.67
+ORD-67654,2022-11-25,2022-11-30,Second Class,CUS-4509,Customer_627,Home Office,West,Office Supplies,Art,Art_488,177.0,7,0.0,68.22
+ORD-20155,2023-10-10,2023-10-14,First Class,CUS-6598,Customer_628,Consumer,Central,Office Supplies,Binders,Binders_119,90.76,5,0.1,25.68
+ORD-47450,2024-10-27,2024-11-02,First Class,CUS-8967,Customer_629,Home Office,West,Office Supplies,Pens,Pens_894,93.59,1,0.3,12.48
+ORD-40735,2024-01-18,2024-01-24,Standard Class,CUS-4145,Customer_630,Consumer,West,Office Supplies,Binders,Binders_428,474.57,2,0.1,145.78
+ORD-45614,2023-09-14,2023-09-18,Same Day,CUS-4711,Customer_631,Home Office,West,Office Supplies,Paper,Paper_774,228.17,6,0.1,57.49
+ORD-54020,2025-05-02,2025-05-09,Standard Class,CUS-3253,Customer_632,Consumer,West,Office Supplies,Storage,Storage_294,396.51,6,0.15,58.46
+ORD-51904,2024-01-26,2024-01-27,Standard Class,CUS-3538,Customer_633,Home Office,East,Office Supplies,Storage,Storage_884,323.41,8,0.15,94.01
+ORD-80798,2023-06-01,2023-06-03,Second Class,CUS-2264,Customer_634,Consumer,West,Office Supplies,Binders,Binders_727,341.45,8,0.3,5.66
+ORD-20561,2023-07-18,2023-07-23,Second Class,CUS-5846,Customer_635,Corporate,South,Furniture,Bookcases,Bookcases_519,481.91,9,0.2,103.32
+ORD-28136,2025-01-02,2025-01-05,Standard Class,CUS-2657,Customer_636,Corporate,Central,Office Supplies,Pens,Pens_213,124.75,9,0.2,32.99
+ORD-29769,2025-04-05,2025-04-08,First Class,CUS-9317,Customer_637,Consumer,South,Technology,Phones,Phones_144,3944.41,2,0.1,1062.6
+ORD-40311,2023-08-21,2023-08-23,Second Class,CUS-9843,Customer_638,Home Office,East,Technology,Computers,Computers_994,4855.29,8,0.2,1015.64
+ORD-60205,2024-05-28,2024-06-03,Same Day,CUS-9626,Customer_639,Consumer,South,Technology,Computers,Computers_209,1350.24,9,0.1,372.38
+ORD-30028,2023-04-29,2023-05-01,Second Class,CUS-1618,Customer_640,Home Office,Central,Furniture,Tables,Tables_201,887.55,9,0.25,101.64
+ORD-38043,2024-06-13,2024-06-20,Second Class,CUS-6517,Customer_641,Corporate,South,Technology,Copiers,Copiers_773,2390.84,5,0.1,746.54
+ORD-18418,2023-01-01,2023-01-08,Same Day,CUS-3147,Customer_642,Home Office,East,Furniture,Bookcases,Bookcases_150,2953.14,8,0.15,254.06
+ORD-64377,2024-07-17,2024-07-19,Standard Class,CUS-7172,Customer_643,Corporate,West,Furniture,Tables,Tables_720,879.98,10,0.3,-10.37
+ORD-63424,2025-10-03,2025-10-08,Same Day,CUS-3527,Customer_644,Home Office,South,Office Supplies,Paper,Paper_113,209.42,6,0.3,7.47
+ORD-53369,2025-09-16,2025-09-18,Standard Class,CUS-3658,Customer_645,Home Office,East,Technology,Copiers,Copiers_952,4462.83,2,0.1,934.84
+ORD-81121,2025-01-18,2025-01-21,Standard Class,CUS-3962,Customer_646,Home Office,East,Technology,Copiers,Copiers_920,64.46,4,0.2,9.87
+ORD-71069,2023-02-27,2023-03-06,Standard Class,CUS-3712,Customer_647,Consumer,Central,Office Supplies,Paper,Paper_469,29.49,8,0.1,8.73
+ORD-64496,2024-03-12,2024-03-16,Same Day,CUS-8170,Customer_648,Consumer,Central,Office Supplies,Storage,Storage_941,306.0,2,0.2,37.14
+ORD-18161,2025-01-06,2025-01-07,Standard Class,CUS-1715,Customer_649,Corporate,South,Furniture,Chairs,Chairs_943,2731.4,2,0.1,533.45
+ORD-37110,2024-03-15,2024-03-19,First Class,CUS-7731,Customer_650,Corporate,West,Office Supplies,Pens,Pens_641,127.04,7,0.0,13.21
+ORD-65069,2023-04-02,2023-04-07,Same Day,CUS-6968,Customer_651,Consumer,East,Technology,Phones,Phones_954,2374.73,3,0.15,351.27
+ORD-61049,2022-12-02,2022-12-05,First Class,CUS-4891,Customer_652,Corporate,South,Furniture,Chairs,Chairs_321,1406.35,5,0.15,308.46
+ORD-86556,2024-08-17,2024-08-19,Standard Class,CUS-8277,Customer_653,Consumer,East,Office Supplies,Paper,Paper_203,241.76,2,0.1,13.21
+ORD-12560,2025-01-08,2025-01-15,Second Class,CUS-5668,Customer_654,Home Office,East,Office Supplies,Binders,Binders_644,315.03,2,0.25,18.67
+ORD-85456,2025-03-18,2025-03-21,Standard Class,CUS-8355,Customer_655,Corporate,West,Furniture,Tables,Tables_297,1462.26,3,0.2,91.23
+ORD-59857,2023-10-27,2023-11-03,First Class,CUS-4833,Customer_656,Corporate,West,Office Supplies,Binders,Binders_683,229.26,5,0.1,14.35
+ORD-72518,2025-06-29,2025-07-06,First Class,CUS-9749,Customer_657,Consumer,South,Office Supplies,Binders,Binders_671,242.4,2,0.15,40.91
+ORD-10772,2023-04-06,2023-04-07,Same Day,CUS-4918,Customer_658,Corporate,West,Office Supplies,Art,Art_525,299.53,3,0.25,8.84
+ORD-56105,2023-03-26,2023-03-27,Second Class,CUS-6070,Customer_659,Corporate,West,Office Supplies,Paper,Paper_884,273.13,8,0.3,47.23
+ORD-49139,2024-04-27,2024-04-29,Same Day,CUS-8684,Customer_660,Home Office,South,Office Supplies,Art,Art_466,428.53,3,0.3,87.58
+ORD-61116,2023-01-28,2023-01-29,First Class,CUS-4178,Customer_661,Corporate,West,Office Supplies,Storage,Storage_819,34.25,4,0.2,5.61
+ORD-64921,2025-01-31,2025-02-05,Standard Class,CUS-7026,Customer_662,Home Office,Central,Office Supplies,Storage,Storage_206,418.33,9,0.0,165.04
+ORD-80545,2024-06-16,2024-06-22,Second Class,CUS-8218,Customer_663,Consumer,East,Technology,Computers,Computers_663,4227.43,1,0.0,994.05
+ORD-81582,2025-08-30,2025-09-06,Standard Class,CUS-8564,Customer_664,Corporate,East,Furniture,Bookcases,Bookcases_773,926.23,5,0.2,142.65
+ORD-89069,2025-03-07,2025-03-11,Standard Class,CUS-5616,Customer_665,Home Office,East,Technology,Copiers,Copiers_460,2341.12,7,0.1,811.82
+ORD-38906,2025-02-08,2025-02-09,Second Class,CUS-7256,Customer_666,Consumer,East,Furniture,Bookcases,Bookcases_965,1371.76,9,0.15,129.58
+ORD-73993,2023-09-16,2023-09-19,Same Day,CUS-9239,Customer_667,Corporate,South,Furniture,Furnishings,Furnishings_882,733.68,3,0.3,170.77
+ORD-38760,2023-04-28,2023-05-01,Standard Class,CUS-9641,Customer_668,Consumer,East,Office Supplies,Storage,Storage_945,204.43,8,0.2,2.63
+ORD-45774,2023-04-18,2023-04-23,First Class,CUS-7859,Customer_669,Corporate,East,Office Supplies,Pens,Pens_723,31.75,6,0.3,2.66
+ORD-67125,2023-12-29,2024-01-05,Standard Class,CUS-3655,Customer_670,Consumer,East,Technology,Computers,Computers_484,1425.22,7,0.1,101.19
+ORD-73654,2023-09-22,2023-09-27,Second Class,CUS-4271,Customer_671,Consumer,East,Office Supplies,Pens,Pens_468,410.17,8,0.3,69.22
+ORD-13804,2024-09-07,2024-09-11,Second Class,CUS-3267,Customer_672,Home Office,Central,Furniture,Furnishings,Furnishings_506,925.23,1,0.2,168.88
+ORD-60968,2023-03-23,2023-03-26,Second Class,CUS-5096,Customer_673,Consumer,East,Technology,Phones,Phones_391,4100.12,5,0.3,664.18
+ORD-54057,2025-04-21,2025-04-27,Same Day,CUS-1854,Customer_674,Corporate,Central,Office Supplies,Paper,Paper_630,270.48,4,0.2,30.39
+ORD-97670,2024-03-10,2024-03-11,Standard Class,CUS-8873,Customer_675,Corporate,South,Technology,Accessories,Accessories_106,4405.32,2,0.3,268.04
+ORD-99016,2024-03-22,2024-03-23,Same Day,CUS-7081,Customer_676,Home Office,West,Furniture,Tables,Tables_319,1766.86,1,0.25,-20.15
+ORD-62994,2025-04-15,2025-04-16,Same Day,CUS-2680,Customer_677,Corporate,East,Furniture,Chairs,Chairs_890,186.04,4,0.15,24.18
+ORD-31632,2025-05-24,2025-05-29,Second Class,CUS-9452,Customer_678,Corporate,West,Office Supplies,Pens,Pens_666,340.96,9,0.0,129.15
+ORD-71261,2023-02-28,2023-03-03,Second Class,CUS-3042,Customer_679,Corporate,West,Office Supplies,Art,Art_684,31.98,6,0.0,6.84
+ORD-26728,2023-11-02,2023-11-03,Same Day,CUS-5670,Customer_680,Consumer,South,Office Supplies,Binders,Binders_196,230.79,7,0.25,51.79
+ORD-91560,2022-12-03,2022-12-09,Standard Class,CUS-2374,Customer_681,Consumer,West,Technology,Copiers,Copiers_464,4650.66,10,0.0,1640.28
+ORD-80008,2023-08-16,2023-08-22,First Class,CUS-3626,Customer_682,Corporate,Central,Technology,Computers,Computers_371,867.76,6,0.0,183.94
+ORD-13534,2022-12-01,2022-12-03,Same Day,CUS-5469,Customer_683,Home Office,West,Furniture,Tables,Tables_338,1230.63,6,0.15,264.09
+ORD-61645,2025-08-20,2025-08-23,Standard Class,CUS-8361,Customer_684,Consumer,West,Furniture,Bookcases,Bookcases_194,2216.59,8,0.1,174.25
+ORD-87580,2025-10-14,2025-10-19,Second Class,CUS-9410,Customer_685,Home Office,West,Office Supplies,Storage,Storage_682,442.31,10,0.2,13.76
+ORD-83975,2024-04-21,2024-04-23,Second Class,CUS-3414,Customer_686,Corporate,East,Technology,Phones,Phones_840,3371.17,9,0.15,133.49
+ORD-96900,2024-12-08,2024-12-10,Standard Class,CUS-8167,Customer_687,Corporate,East,Furniture,Furnishings,Furnishings_277,848.7,9,0.25,126.71
+ORD-13552,2024-05-11,2024-05-17,First Class,CUS-2502,Customer_688,Consumer,Central,Furniture,Chairs,Chairs_709,2056.36,8,0.3,160.03
+ORD-21003,2023-07-07,2023-07-14,Second Class,CUS-4637,Customer_689,Corporate,Central,Office Supplies,Pens,Pens_138,155.4,8,0.25,21.66
+ORD-94246,2023-01-07,2023-01-10,Second Class,CUS-8391,Customer_690,Consumer,East,Office Supplies,Art,Art_490,362.03,5,0.3,38.49
+ORD-66179,2025-04-05,2025-04-08,Second Class,CUS-6727,Customer_691,Corporate,Central,Technology,Phones,Phones_889,4772.46,10,0.3,262.78
+ORD-27786,2025-10-15,2025-10-16,Standard Class,CUS-1436,Customer_692,Corporate,East,Furniture,Bookcases,Bookcases_936,2192.04,3,0.0,664.72
+ORD-70515,2024-04-29,2024-05-05,Same Day,CUS-7797,Customer_693,Consumer,South,Furniture,Furnishings,Furnishings_988,2602.35,5,0.0,852.4
+ORD-33819,2023-04-14,2023-04-18,Second Class,CUS-1872,Customer_694,Consumer,West,Technology,Computers,Computers_865,60.41,3,0.15,1.78
+ORD-16590,2025-05-28,2025-06-02,Same Day,CUS-7495,Customer_695,Consumer,West,Office Supplies,Art,Art_111,361.61,5,0.25,13.44
+ORD-44099,2024-11-14,2024-11-15,First Class,CUS-9224,Customer_696,Corporate,Central,Office Supplies,Storage,Storage_155,416.5,4,0.25,78.71
+ORD-59689,2025-08-27,2025-09-03,Second Class,CUS-7126,Customer_697,Corporate,East,Furniture,Chairs,Chairs_426,217.62,8,0.2,25.24
+ORD-52906,2023-10-15,2023-10-18,Second Class,CUS-4862,Customer_698,Home Office,East,Office Supplies,Art,Art_253,437.08,6,0.15,97.79
+ORD-37742,2023-09-26,2023-09-29,First Class,CUS-7326,Customer_699,Consumer,Central,Furniture,Tables,Tables_256,844.41,5,0.2,87.89
+ORD-69598,2023-06-06,2023-06-11,Second Class,CUS-2337,Customer_700,Corporate,East,Technology,Copiers,Copiers_556,3343.2,1,0.3,224.75
+ORD-52840,2023-07-02,2023-07-04,Same Day,CUS-7142,Customer_701,Corporate,South,Office Supplies,Art,Art_616,402.17,3,0.15,29.2
+ORD-54236,2025-09-15,2025-09-16,Standard Class,CUS-4678,Customer_702,Consumer,West,Technology,Computers,Computers_542,3330.19,6,0.1,424.5
+ORD-59692,2023-02-06,2023-02-13,Same Day,CUS-1461,Customer_703,Home Office,Central,Furniture,Furnishings,Furnishings_251,367.63,5,0.25,57.58
+ORD-46471,2022-12-03,2022-12-05,Standard Class,CUS-6221,Customer_704,Consumer,Central,Technology,Accessories,Accessories_184,3001.79,8,0.0,690.26
+ORD-65255,2023-02-10,2023-02-14,Standard Class,CUS-2623,Customer_705,Home Office,East,Furniture,Chairs,Chairs_661,1693.79,3,0.25,351.11
+ORD-43065,2024-11-22,2024-11-26,Same Day,CUS-6493,Customer_706,Corporate,Central,Furniture,Bookcases,Bookcases_187,2710.93,10,0.1,828.94
+ORD-20735,2023-09-11,2023-09-13,Same Day,CUS-3392,Customer_707,Home Office,South,Furniture,Furnishings,Furnishings_892,1272.3,3,0.15,238.55
+ORD-71644,2023-01-19,2023-01-24,Same Day,CUS-3254,Customer_708,Corporate,East,Office Supplies,Binders,Binders_880,167.33,9,0.1,46.43
+ORD-12540,2025-03-15,2025-03-17,Same Day,CUS-1627,Customer_709,Consumer,East,Technology,Copiers,Copiers_672,3761.76,5,0.25,252.31
+ORD-80702,2024-08-28,2024-08-30,First Class,CUS-5700,Customer_710,Consumer,East,Technology,Copiers,Copiers_504,2092.74,3,0.2,260.53
+ORD-16826,2025-03-09,2025-03-15,Second Class,CUS-8740,Customer_711,Consumer,East,Office Supplies,Art,Art_300,326.59,3,0.15,78.0
+ORD-55870,2024-08-24,2024-08-27,Standard Class,CUS-3273,Customer_712,Home Office,South,Office Supplies,Art,Art_853,326.76,3,0.2,37.86
+ORD-39389,2023-04-16,2023-04-21,Same Day,CUS-8685,Customer_713,Corporate,East,Office Supplies,Binders,Binders_348,445.14,3,0.1,100.85
+ORD-95215,2024-12-10,2024-12-11,Same Day,CUS-8349,Customer_714,Consumer,Central,Technology,Accessories,Accessories_895,3013.53,4,0.0,468.94
+ORD-18993,2025-09-01,2025-09-07,Same Day,CUS-1086,Customer_715,Consumer,South,Furniture,Bookcases,Bookcases_801,1556.25,2,0.15,318.92
+ORD-95426,2023-02-23,2023-02-25,First Class,CUS-2298,Customer_716,Corporate,West,Office Supplies,Paper,Paper_215,78.05,1,0.3,16.27
+ORD-15276,2024-02-08,2024-02-15,Same Day,CUS-1311,Customer_717,Consumer,West,Office Supplies,Storage,Storage_533,66.71,6,0.25,15.72
+ORD-14067,2025-09-29,2025-09-30,Same Day,CUS-5193,Customer_718,Corporate,Central,Furniture,Bookcases,Bookcases_295,547.53,10,0.2,118.98
+ORD-42411,2025-02-06,2025-02-07,Same Day,CUS-4533,Customer_719,Corporate,Central,Furniture,Bookcases,Bookcases_708,598.36,3,0.1,163.79
+ORD-36130,2025-06-17,2025-06-24,Second Class,CUS-3449,Customer_720,Corporate,South,Office Supplies,Paper,Paper_888,322.56,8,0.15,62.05
+ORD-12671,2024-06-08,2024-06-15,First Class,CUS-9991,Customer_721,Corporate,West,Furniture,Tables,Tables_458,2248.85,5,0.0,619.33
+ORD-91439,2024-08-05,2024-08-08,Same Day,CUS-9647,Customer_722,Corporate,West,Office Supplies,Storage,Storage_738,269.7,6,0.15,17.56
+ORD-29973,2023-05-03,2023-05-08,Standard Class,CUS-7934,Customer_723,Home Office,West,Technology,Copiers,Copiers_145,4153.64,3,0.0,968.45
+ORD-41266,2025-05-31,2025-06-01,Standard Class,CUS-2821,Customer_724,Consumer,West,Technology,Computers,Computers_801,4956.75,4,0.1,918.15
+ORD-26544,2024-12-02,2024-12-04,Standard Class,CUS-5720,Customer_725,Home Office,West,Furniture,Tables,Tables_875,2478.04,9,0.2,712.56
+ORD-72070,2024-06-27,2024-07-02,First Class,CUS-4893,Customer_726,Consumer,East,Office Supplies,Paper,Paper_215,350.49,1,0.15,54.09
+ORD-97747,2024-07-22,2024-07-28,First Class,CUS-5934,Customer_727,Home Office,Central,Office Supplies,Paper,Paper_348,270.92,6,0.3,31.1
+ORD-24993,2024-03-18,2024-03-22,Standard Class,CUS-2996,Customer_728,Corporate,East,Office Supplies,Binders,Binders_989,229.94,6,0.15,42.53
+ORD-83920,2024-12-01,2024-12-06,Same Day,CUS-1782,Customer_729,Consumer,West,Furniture,Chairs,Chairs_451,344.74,3,0.2,65.86
+ORD-38569,2025-08-14,2025-08-21,First Class,CUS-4906,Customer_730,Consumer,South,Office Supplies,Paper,Paper_412,205.69,6,0.15,51.31
+ORD-70952,2023-12-13,2023-12-19,Standard Class,CUS-7878,Customer_731,Home Office,South,Furniture,Furnishings,Furnishings_123,2739.39,8,0.15,253.43
+ORD-43586,2024-03-24,2024-03-26,Standard Class,CUS-8489,Customer_732,Home Office,West,Furniture,Tables,Tables_857,2443.27,9,0.25,326.46
+ORD-58351,2022-11-21,2022-11-25,Same Day,CUS-2029,Customer_733,Consumer,West,Office Supplies,Binders,Binders_308,115.87,3,0.15,31.61
+ORD-31992,2022-12-26,2022-12-28,Second Class,CUS-2816,Customer_734,Home Office,South,Office Supplies,Art,Art_868,238.64,9,0.25,27.19
+ORD-89415,2024-10-17,2024-10-23,First Class,CUS-9189,Customer_735,Home Office,East,Furniture,Furnishings,Furnishings_737,2468.5,5,0.15,267.92
+ORD-89593,2022-11-27,2022-11-30,Same Day,CUS-9782,Customer_736,Home Office,East,Office Supplies,Binders,Binders_811,43.02,2,0.2,8.45
+ORD-25012,2022-11-10,2022-11-17,Standard Class,CUS-1269,Customer_737,Corporate,West,Office Supplies,Paper,Paper_485,199.82,1,0.1,59.37
+ORD-31465,2024-12-17,2024-12-24,Standard Class,CUS-9443,Customer_738,Corporate,East,Office Supplies,Art,Art_144,427.4,7,0.15,18.78
+ORD-50768,2024-07-29,2024-07-30,Same Day,CUS-4963,Customer_739,Home Office,South,Furniture,Tables,Tables_161,1271.3,8,0.3,232.7
+ORD-24168,2024-01-02,2024-01-07,First Class,CUS-3352,Customer_740,Home Office,East,Furniture,Tables,Tables_908,325.08,3,0.2,80.13
+ORD-85849,2024-03-09,2024-03-13,Second Class,CUS-5772,Customer_741,Corporate,West,Office Supplies,Art,Art_377,275.84,8,0.1,51.98
+ORD-13365,2025-08-11,2025-08-12,Second Class,CUS-8032,Customer_742,Corporate,South,Technology,Copiers,Copiers_770,4315.63,6,0.25,1165.18
+ORD-50888,2023-08-26,2023-09-01,Standard Class,CUS-1025,Customer_743,Consumer,East,Technology,Phones,Phones_497,2971.91,3,0.3,552.81
+ORD-85470,2024-06-03,2024-06-04,First Class,CUS-6780,Customer_744,Consumer,Central,Office Supplies,Pens,Pens_778,120.88,1,0.3,22.01
+ORD-98781,2023-02-05,2023-02-07,Second Class,CUS-4941,Customer_745,Corporate,South,Office Supplies,Pens,Pens_985,198.28,9,0.2,44.48
+ORD-59192,2025-10-07,2025-10-11,First Class,CUS-7825,Customer_746,Home Office,South,Technology,Phones,Phones_399,2278.11,9,0.0,330.74
+ORD-61990,2024-12-09,2024-12-13,First Class,CUS-4068,Customer_747,Home Office,Central,Office Supplies,Storage,Storage_336,293.84,6,0.1,33.84
+ORD-35995,2023-04-30,2023-05-05,Standard Class,CUS-2402,Customer_748,Home Office,Central,Furniture,Chairs,Chairs_423,2302.12,5,0.1,435.55
+ORD-19961,2023-05-22,2023-05-27,Second Class,CUS-9576,Customer_749,Home Office,South,Furniture,Chairs,Chairs_290,386.73,8,0.0,69.3
+ORD-87607,2023-08-08,2023-08-14,Same Day,CUS-6908,Customer_750,Consumer,Central,Technology,Copiers,Copiers_674,4453.78,5,0.1,777.51
+ORD-92213,2025-01-23,2025-01-24,Standard Class,CUS-2108,Customer_751,Corporate,West,Office Supplies,Paper,Paper_140,16.03,10,0.1,5.07
+ORD-41830,2023-03-15,2023-03-19,Second Class,CUS-9618,Customer_752,Home Office,West,Technology,Accessories,Accessories_441,1881.76,3,0.0,653.53
+ORD-23356,2023-08-02,2023-08-04,Second Class,CUS-9914,Customer_753,Consumer,West,Furniture,Furnishings,Furnishings_862,179.52,10,0.2,33.93
+ORD-49529,2024-06-27,2024-06-30,Second Class,CUS-9312,Customer_754,Home Office,South,Technology,Phones,Phones_455,1995.22,8,0.15,563.52
+ORD-99687,2024-08-14,2024-08-21,Second Class,CUS-9316,Customer_755,Corporate,Central,Office Supplies,Pens,Pens_463,267.65,6,0.1,76.32
+ORD-88697,2025-01-20,2025-01-26,Second Class,CUS-1333,Customer_756,Consumer,Central,Office Supplies,Pens,Pens_341,260.72,2,0.3,20.52
+ORD-25866,2024-09-06,2024-09-09,First Class,CUS-7397,Customer_757,Corporate,East,Office Supplies,Pens,Pens_931,91.16,8,0.2,5.5
+ORD-84177,2025-05-23,2025-05-26,Standard Class,CUS-8702,Customer_758,Corporate,East,Technology,Accessories,Accessories_999,3246.42,1,0.2,500.79
+ORD-15383,2024-02-29,2024-03-01,First Class,CUS-1713,Customer_759,Consumer,Central,Furniture,Chairs,Chairs_668,229.86,3,0.0,73.75
+ORD-55508,2023-12-28,2023-12-30,Same Day,CUS-7338,Customer_760,Consumer,Central,Furniture,Tables,Tables_255,2309.53,9,0.2,302.38
+ORD-79827,2023-06-19,2023-06-21,Second Class,CUS-7116,Customer_761,Consumer,Central,Furniture,Furnishings,Furnishings_772,2845.27,2,0.0,853.67
+ORD-66148,2023-06-12,2023-06-14,Standard Class,CUS-5155,Customer_762,Consumer,South,Technology,Phones,Phones_847,1731.86,5,0.2,49.01
+ORD-96706,2025-05-16,2025-05-20,Second Class,CUS-1266,Customer_763,Consumer,Central,Furniture,Tables,Tables_527,1599.99,1,0.15,399.04
+ORD-58571,2024-08-12,2024-08-16,Standard Class,CUS-6850,Customer_764,Consumer,East,Technology,Computers,Computers_536,1925.61,7,0.3,373.21
+ORD-19038,2023-07-13,2023-07-18,First Class,CUS-2106,Customer_765,Consumer,South,Furniture,Bookcases,Bookcases_559,119.46,10,0.25,22.35
+ORD-76317,2024-11-10,2024-11-17,Standard Class,CUS-6649,Customer_766,Home Office,Central,Office Supplies,Binders,Binders_311,199.08,4,0.2,57.77
+ORD-94874,2024-01-07,2024-01-11,Same Day,CUS-4950,Customer_767,Corporate,East,Office Supplies,Binders,Binders_694,397.94,8,0.2,98.69
+ORD-54725,2024-07-31,2024-08-04,Same Day,CUS-2698,Customer_768,Consumer,South,Office Supplies,Binders,Binders_983,302.03,6,0.2,81.83
+ORD-11658,2024-05-03,2024-05-10,Standard Class,CUS-6447,Customer_769,Home Office,Central,Technology,Accessories,Accessories_805,551.24,2,0.0,209.51
+ORD-65057,2023-07-11,2023-07-12,Standard Class,CUS-3185,Customer_770,Home Office,Central,Office Supplies,Art,Art_238,425.1,6,0.3,80.94
+ORD-74251,2023-09-26,2023-10-03,Standard Class,CUS-1726,Customer_771,Home Office,Central,Furniture,Tables,Tables_771,1640.15,1,0.1,413.77
+ORD-23833,2024-07-23,2024-07-30,Standard Class,CUS-6772,Customer_772,Corporate,South,Office Supplies,Binders,Binders_425,422.44,10,0.0,42.97
+ORD-66822,2023-01-29,2023-01-31,Same Day,CUS-9945,Customer_773,Consumer,East,Technology,Phones,Phones_288,2922.1,4,0.15,481.41
+ORD-57472,2024-09-09,2024-09-11,Second Class,CUS-6546,Customer_774,Home Office,East,Furniture,Tables,Tables_844,1723.1,10,0.0,467.56
+ORD-93307,2023-05-13,2023-05-19,Standard Class,CUS-3868,Customer_775,Corporate,West,Technology,Accessories,Accessories_523,571.03,9,0.1,80.63
+ORD-70258,2024-03-30,2024-04-02,Standard Class,CUS-8612,Customer_776,Corporate,Central,Furniture,Bookcases,Bookcases_553,585.34,4,0.15,70.49
+ORD-30052,2025-01-27,2025-02-01,Same Day,CUS-8840,Customer_777,Corporate,West,Office Supplies,Pens,Pens_255,486.29,5,0.1,164.54
+ORD-67080,2023-02-16,2023-02-22,Same Day,CUS-3986,Customer_778,Home Office,West,Technology,Phones,Phones_234,1181.01,4,0.1,374.99
+ORD-33086,2024-07-12,2024-07-15,First Class,CUS-3209,Customer_779,Consumer,East,Technology,Phones,Phones_880,4888.39,1,0.3,1000.92
+ORD-78386,2023-10-30,2023-10-31,Standard Class,CUS-2033,Customer_780,Home Office,South,Office Supplies,Art,Art_373,270.64,2,0.25,26.2
+ORD-95256,2025-02-13,2025-02-20,First Class,CUS-8498,Customer_781,Home Office,South,Office Supplies,Art,Art_727,76.54,9,0.15,2.23
+ORD-45400,2025-05-22,2025-05-27,Same Day,CUS-1605,Customer_782,Consumer,East,Technology,Computers,Computers_336,541.55,8,0.25,-0.51
+ORD-90728,2024-04-02,2024-04-03,Same Day,CUS-5807,Customer_783,Consumer,South,Office Supplies,Paper,Paper_467,112.34,2,0.3,4.9
+ORD-80539,2025-06-11,2025-06-12,Second Class,CUS-4302,Customer_784,Consumer,West,Technology,Copiers,Copiers_237,4631.9,9,0.25,-93.92
+ORD-73372,2023-08-21,2023-08-22,Standard Class,CUS-1717,Customer_785,Corporate,Central,Office Supplies,Art,Art_580,212.93,7,0.1,11.74
+ORD-70931,2022-12-02,2022-12-03,First Class,CUS-4268,Customer_786,Consumer,East,Office Supplies,Pens,Pens_288,203.76,4,0.25,50.94
+ORD-67091,2024-02-06,2024-02-08,Same Day,CUS-1686,Customer_787,Home Office,Central,Furniture,Furnishings,Furnishings_585,1008.3,8,0.0,314.44
+ORD-87656,2023-12-18,2023-12-25,Same Day,CUS-6170,Customer_788,Consumer,South,Technology,Computers,Computers_297,777.96,6,0.25,52.66
+ORD-45179,2025-02-05,2025-02-08,First Class,CUS-6080,Customer_789,Home Office,Central,Technology,Phones,Phones_518,2464.86,10,0.25,36.46
+ORD-52245,2023-04-29,2023-05-04,Second Class,CUS-9444,Customer_790,Corporate,South,Technology,Accessories,Accessories_522,693.74,10,0.1,141.17
+ORD-42177,2024-04-21,2024-04-28,Same Day,CUS-7524,Customer_791,Home Office,South,Technology,Computers,Computers_875,4185.63,9,0.2,6.71
+ORD-21359,2023-04-10,2023-04-11,Standard Class,CUS-9897,Customer_792,Home Office,West,Technology,Phones,Phones_281,1883.47,1,0.0,718.59
+ORD-46559,2023-03-20,2023-03-22,Same Day,CUS-8756,Customer_793,Consumer,South,Furniture,Furnishings,Furnishings_804,1186.93,6,0.1,207.05
+ORD-69087,2025-05-04,2025-05-11,Standard Class,CUS-5150,Customer_794,Consumer,West,Furniture,Furnishings,Furnishings_352,1474.62,7,0.2,177.99
+ORD-41963,2023-07-29,2023-07-30,First Class,CUS-1599,Customer_795,Home Office,West,Furniture,Furnishings,Furnishings_894,1387.97,3,0.3,93.24
+ORD-70910,2024-09-17,2024-09-18,Standard Class,CUS-4131,Customer_796,Consumer,West,Technology,Copiers,Copiers_837,4974.55,7,0.0,600.92
+ORD-84691,2023-02-03,2023-02-07,First Class,CUS-5687,Customer_797,Corporate,East,Furniture,Furnishings,Furnishings_726,1681.61,6,0.15,364.06
+ORD-89997,2023-02-19,2023-02-21,Standard Class,CUS-6848,Customer_798,Corporate,East,Office Supplies,Art,Art_708,53.22,7,0.0,17.03
+ORD-97580,2025-04-13,2025-04-20,First Class,CUS-1783,Customer_799,Consumer,South,Office Supplies,Art,Art_756,307.37,6,0.15,70.03
+ORD-59674,2025-01-24,2025-01-28,Standard Class,CUS-6438,Customer_800,Corporate,West,Office Supplies,Paper,Paper_633,84.28,1,0.3,-0.71
+ORD-54092,2023-01-07,2023-01-11,Second Class,CUS-5476,Customer_801,Consumer,East,Technology,Copiers,Copiers_567,203.14,5,0.3,25.12
+ORD-13761,2025-03-30,2025-04-01,Standard Class,CUS-3039,Customer_802,Home Office,West,Technology,Computers,Computers_631,4855.17,6,0.0,1315.0
+ORD-74789,2024-11-01,2024-11-03,Standard Class,CUS-7029,Customer_803,Home Office,Central,Office Supplies,Storage,Storage_852,389.03,6,0.2,101.35
+ORD-52600,2023-11-26,2023-11-29,Second Class,CUS-8159,Customer_804,Corporate,Central,Technology,Copiers,Copiers_628,4901.54,5,0.15,680.03
+ORD-33834,2024-06-03,2024-06-07,Same Day,CUS-7553,Customer_805,Consumer,Central,Office Supplies,Paper,Paper_294,244.16,8,0.25,21.11
+ORD-73904,2023-09-08,2023-09-09,Same Day,CUS-8204,Customer_806,Consumer,South,Furniture,Furnishings,Furnishings_507,1643.55,9,0.0,469.33
+ORD-37802,2024-03-25,2024-03-31,Standard Class,CUS-7334,Customer_807,Corporate,West,Furniture,Bookcases,Bookcases_572,588.18,2,0.15,126.41
+ORD-56507,2024-07-04,2024-07-08,Second Class,CUS-6554,Customer_808,Home Office,Central,Technology,Copiers,Copiers_401,1272.19,4,0.1,242.72
+ORD-43862,2025-02-28,2025-03-05,Standard Class,CUS-4060,Customer_809,Corporate,East,Office Supplies,Paper,Paper_806,420.89,8,0.0,98.03
+ORD-54608,2025-07-16,2025-07-17,First Class,CUS-9129,Customer_810,Home Office,Central,Office Supplies,Binders,Binders_574,184.53,7,0.0,45.81
+ORD-46655,2023-05-06,2023-05-09,First Class,CUS-9151,Customer_811,Consumer,Central,Office Supplies,Storage,Storage_192,415.14,8,0.2,107.24
+ORD-88139,2024-12-31,2025-01-02,Standard Class,CUS-7018,Customer_812,Home Office,Central,Office Supplies,Art,Art_215,357.42,5,0.3,31.58
+ORD-46211,2025-03-15,2025-03-17,Same Day,CUS-9507,Customer_813,Corporate,South,Technology,Computers,Computers_502,927.0,3,0.3,215.05
+ORD-82848,2025-10-19,2025-10-21,Same Day,CUS-5369,Customer_814,Consumer,East,Furniture,Bookcases,Bookcases_561,1571.59,7,0.2,237.63
+ORD-11330,2022-12-17,2022-12-21,Standard Class,CUS-2353,Customer_815,Corporate,West,Technology,Computers,Computers_564,3403.07,7,0.2,969.06
+ORD-77715,2024-11-12,2024-11-16,Standard Class,CUS-7955,Customer_816,Corporate,East,Office Supplies,Binders,Binders_565,125.17,3,0.3,25.02
+ORD-35042,2025-07-27,2025-07-30,First Class,CUS-2293,Customer_817,Home Office,West,Technology,Accessories,Accessories_431,4161.91,10,0.15,556.57
+ORD-21221,2025-09-01,2025-09-04,Same Day,CUS-8055,Customer_818,Corporate,South,Office Supplies,Binders,Binders_835,276.97,10,0.25,64.84
+ORD-41635,2025-01-11,2025-01-14,Standard Class,CUS-3956,Customer_819,Home Office,South,Office Supplies,Paper,Paper_193,90.97,2,0.3,-1.54
+ORD-63271,2023-11-11,2023-11-12,First Class,CUS-9937,Customer_820,Consumer,South,Technology,Copiers,Copiers_749,2935.77,3,0.0,1108.29
+ORD-74038,2024-08-22,2024-08-27,Same Day,CUS-5813,Customer_821,Home Office,South,Furniture,Chairs,Chairs_636,2999.17,4,0.15,643.3
+ORD-82768,2024-01-30,2024-01-31,Second Class,CUS-6262,Customer_822,Consumer,West,Office Supplies,Storage,Storage_844,83.76,5,0.0,9.74
+ORD-41499,2024-06-05,2024-06-06,First Class,CUS-2680,Customer_823,Home Office,Central,Office Supplies,Art,Art_263,410.21,8,0.3,58.77
+ORD-72402,2025-07-01,2025-07-06,Same Day,CUS-2311,Customer_824,Corporate,West,Furniture,Furnishings,Furnishings_144,701.2,9,0.25,187.41
+ORD-94659,2024-11-09,2024-11-16,Same Day,CUS-6372,Customer_825,Home Office,East,Technology,Accessories,Accessories_679,3922.82,6,0.2,82.14
+ORD-74332,2024-02-27,2024-02-29,First Class,CUS-5843,Customer_826,Home Office,South,Office Supplies,Binders,Binders_266,369.94,2,0.15,70.81
+ORD-68743,2023-06-01,2023-06-03,Second Class,CUS-6021,Customer_827,Consumer,South,Technology,Computers,Computers_887,1537.42,10,0.3,268.03
+ORD-12260,2024-03-15,2024-03-18,First Class,CUS-8305,Customer_828,Corporate,East,Office Supplies,Paper,Paper_529,169.65,7,0.3,32.76
+ORD-22196,2025-11-04,2025-11-11,Same Day,CUS-7981,Customer_829,Home Office,West,Furniture,Bookcases,Bookcases_847,2398.31,2,0.25,237.79
+ORD-48566,2023-03-02,2023-03-09,Standard Class,CUS-3730,Customer_830,Corporate,Central,Furniture,Bookcases,Bookcases_741,1438.19,1,0.1,160.0
+ORD-39045,2024-01-31,2024-02-05,Standard Class,CUS-8272,Customer_831,Home Office,Central,Technology,Phones,Phones_234,3667.55,7,0.1,229.97
+ORD-63005,2025-01-11,2025-01-14,First Class,CUS-6759,Customer_832,Home Office,East,Technology,Phones,Phones_737,782.52,5,0.0,214.35
+ORD-41890,2023-10-29,2023-10-31,Same Day,CUS-8325,Customer_833,Corporate,Central,Furniture,Chairs,Chairs_569,2572.42,7,0.3,220.9
+ORD-50135,2024-03-06,2024-03-11,Standard Class,CUS-1693,Customer_834,Home Office,West,Furniture,Furnishings,Furnishings_656,2161.57,3,0.15,669.27
+ORD-97026,2024-08-20,2024-08-27,Same Day,CUS-6776,Customer_835,Corporate,West,Technology,Copiers,Copiers_343,4539.37,9,0.15,196.02
+ORD-86225,2024-11-11,2024-11-16,First Class,CUS-8126,Customer_836,Home Office,East,Technology,Copiers,Copiers_564,705.24,8,0.0,215.53
+ORD-58368,2023-01-04,2023-01-10,Standard Class,CUS-5498,Customer_837,Consumer,West,Furniture,Furnishings,Furnishings_181,1819.74,10,0.3,-77.36
+ORD-72031,2024-10-28,2024-11-02,Same Day,CUS-1939,Customer_838,Corporate,South,Office Supplies,Art,Art_106,303.57,3,0.0,45.97
+ORD-82544,2023-08-26,2023-08-31,Standard Class,CUS-2229,Customer_839,Home Office,East,Technology,Accessories,Accessories_734,1799.63,4,0.25,199.89
+ORD-79588,2023-11-28,2023-12-05,First Class,CUS-7655,Customer_840,Home Office,West,Office Supplies,Art,Art_939,234.65,3,0.25,26.15
+ORD-55056,2025-08-12,2025-08-17,Same Day,CUS-6952,Customer_841,Consumer,East,Technology,Phones,Phones_289,238.01,7,0.2,48.96
+ORD-65771,2024-08-01,2024-08-03,Standard Class,CUS-9406,Customer_842,Corporate,Central,Technology,Phones,Phones_768,3742.01,5,0.0,1396.01
+ORD-82140,2025-08-08,2025-08-09,First Class,CUS-3621,Customer_843,Home Office,West,Furniture,Chairs,Chairs_248,1693.04,9,0.2,324.57
+ORD-53357,2023-05-11,2023-05-12,Standard Class,CUS-1510,Customer_844,Consumer,South,Technology,Accessories,Accessories_439,335.82,8,0.15,104.46
+ORD-56112,2024-02-27,2024-03-03,Standard Class,CUS-3339,Customer_845,Home Office,West,Technology,Phones,Phones_211,3419.74,1,0.1,1075.46
+ORD-69473,2024-01-30,2024-01-31,Second Class,CUS-8179,Customer_846,Corporate,East,Furniture,Tables,Tables_265,1453.67,5,0.1,327.58
+ORD-45509,2025-10-21,2025-10-25,Second Class,CUS-1570,Customer_847,Home Office,East,Office Supplies,Pens,Pens_725,26.89,10,0.2,6.73
+ORD-50189,2022-11-09,2022-11-12,First Class,CUS-3068,Customer_848,Home Office,West,Office Supplies,Art,Art_686,485.11,5,0.0,142.03
+ORD-42951,2023-12-25,2024-01-01,Second Class,CUS-2101,Customer_849,Home Office,South,Office Supplies,Binders,Binders_566,475.06,8,0.0,58.7
+ORD-40217,2023-08-02,2023-08-05,First Class,CUS-4866,Customer_850,Home Office,South,Office Supplies,Art,Art_468,261.32,9,0.1,71.12
+ORD-25814,2023-11-06,2023-11-13,Second Class,CUS-7001,Customer_851,Consumer,South,Technology,Phones,Phones_886,513.68,8,0.1,40.31
+ORD-35242,2024-08-31,2024-09-01,Standard Class,CUS-6933,Customer_852,Consumer,East,Furniture,Bookcases,Bookcases_477,2288.4,4,0.2,407.85
+ORD-51359,2022-12-22,2022-12-24,First Class,CUS-7272,Customer_853,Corporate,West,Furniture,Chairs,Chairs_876,1526.6,1,0.2,321.8
+ORD-25670,2023-08-25,2023-09-01,First Class,CUS-1530,Customer_854,Consumer,Central,Furniture,Chairs,Chairs_399,977.1,1,0.15,43.93
+ORD-80236,2023-06-23,2023-06-30,Standard Class,CUS-3513,Customer_855,Consumer,East,Furniture,Tables,Tables_224,1525.11,3,0.3,29.34
+ORD-34267,2025-10-20,2025-10-27,First Class,CUS-8371,Customer_856,Corporate,South,Office Supplies,Pens,Pens_437,266.0,5,0.3,59.77
+ORD-35105,2024-11-24,2024-11-25,First Class,CUS-7077,Customer_857,Consumer,West,Office Supplies,Storage,Storage_637,285.73,5,0.1,67.12
+ORD-38361,2024-12-12,2024-12-18,Second Class,CUS-7095,Customer_858,Consumer,South,Technology,Computers,Computers_726,2234.06,8,0.0,388.47
+ORD-73464,2025-01-26,2025-01-31,First Class,CUS-8273,Customer_859,Corporate,Central,Technology,Phones,Phones_685,3048.49,2,0.15,707.87
+ORD-46241,2023-06-02,2023-06-05,Same Day,CUS-2259,Customer_860,Corporate,South,Office Supplies,Art,Art_189,460.18,5,0.2,82.39
+ORD-87278,2024-07-18,2024-07-21,Standard Class,CUS-3255,Customer_861,Corporate,South,Furniture,Bookcases,Bookcases_537,1150.58,7,0.2,173.13
+ORD-78765,2023-08-14,2023-08-16,Second Class,CUS-9674,Customer_862,Home Office,Central,Office Supplies,Pens,Pens_365,365.6,3,0.3,88.79
+ORD-88222,2025-04-20,2025-04-27,Second Class,CUS-7012,Customer_863,Home Office,West,Office Supplies,Art,Art_738,448.28,8,0.15,103.12
+ORD-47093,2025-08-01,2025-08-07,Same Day,CUS-7521,Customer_864,Corporate,East,Furniture,Tables,Tables_729,1422.34,4,0.3,89.08
+ORD-23176,2024-08-18,2024-08-20,Standard Class,CUS-6150,Customer_865,Corporate,West,Office Supplies,Storage,Storage_632,227.29,1,0.25,48.87
+ORD-35443,2024-11-07,2024-11-09,Standard Class,CUS-5566,Customer_866,Corporate,Central,Office Supplies,Storage,Storage_604,305.04,2,0.1,96.2
+ORD-48829,2023-11-02,2023-11-06,Second Class,CUS-5089,Customer_867,Home Office,South,Technology,Computers,Computers_825,2977.46,5,0.15,186.29
+ORD-39816,2024-07-28,2024-08-03,First Class,CUS-2858,Customer_868,Home Office,West,Furniture,Tables,Tables_101,2439.11,8,0.3,24.8
+ORD-57301,2024-07-03,2024-07-05,Second Class,CUS-1424,Customer_869,Consumer,East,Technology,Phones,Phones_576,2408.59,2,0.0,397.1
+ORD-33519,2023-11-06,2023-11-12,Standard Class,CUS-4048,Customer_870,Consumer,Central,Office Supplies,Paper,Paper_855,498.1,10,0.15,115.74
+ORD-49618,2022-11-11,2022-11-17,Same Day,CUS-9176,Customer_871,Corporate,West,Technology,Copiers,Copiers_523,344.38,6,0.25,53.69
+ORD-11854,2025-01-17,2025-01-24,Second Class,CUS-9482,Customer_872,Home Office,East,Technology,Accessories,Accessories_458,65.68,10,0.1,15.48
+ORD-80010,2023-01-13,2023-01-15,Standard Class,CUS-7340,Customer_873,Home Office,Central,Office Supplies,Binders,Binders_111,323.7,8,0.2,91.36
+ORD-26591,2024-08-20,2024-08-27,Second Class,CUS-2929,Customer_874,Home Office,East,Office Supplies,Binders,Binders_806,156.23,10,0.2,36.37
+ORD-45954,2024-02-03,2024-02-09,First Class,CUS-5288,Customer_875,Corporate,Central,Furniture,Bookcases,Bookcases_909,797.11,7,0.2,30.59
+ORD-15965,2023-06-09,2023-06-13,Second Class,CUS-5264,Customer_876,Consumer,South,Technology,Accessories,Accessories_407,1593.9,5,0.2,166.17
+ORD-17146,2023-08-23,2023-08-26,Second Class,CUS-8311,Customer_877,Corporate,West,Office Supplies,Art,Art_431,135.46,8,0.15,21.08
+ORD-82529,2023-04-16,2023-04-18,Standard Class,CUS-4515,Customer_878,Consumer,East,Technology,Phones,Phones_802,202.41,2,0.25,18.98
+ORD-48290,2024-10-18,2024-10-21,Standard Class,CUS-5678,Customer_879,Consumer,Central,Furniture,Bookcases,Bookcases_505,2917.45,6,0.25,512.87
+ORD-26551,2023-10-17,2023-10-23,Standard Class,CUS-9047,Customer_880,Corporate,East,Office Supplies,Art,Art_730,118.17,9,0.2,31.62
+ORD-93606,2023-05-08,2023-05-15,Second Class,CUS-4279,Customer_881,Consumer,East,Technology,Computers,Computers_298,3683.45,10,0.0,706.54
+ORD-74340,2024-09-25,2024-09-29,First Class,CUS-3009,Customer_882,Consumer,West,Furniture,Bookcases,Bookcases_788,2311.53,1,0.2,382.7
+ORD-23446,2022-12-01,2022-12-04,Same Day,CUS-3223,Customer_883,Home Office,South,Furniture,Furnishings,Furnishings_916,2794.85,5,0.15,731.76
+ORD-11607,2024-01-11,2024-01-13,Same Day,CUS-2213,Customer_884,Consumer,East,Technology,Computers,Computers_593,201.22,3,0.25,20.09
+ORD-85243,2023-03-26,2023-03-29,Standard Class,CUS-8406,Customer_885,Corporate,Central,Technology,Copiers,Copiers_985,4366.64,10,0.1,438.57
+ORD-47268,2024-04-16,2024-04-23,Standard Class,CUS-3828,Customer_886,Corporate,Central,Office Supplies,Pens,Pens_573,268.34,1,0.2,38.23
+ORD-71524,2023-06-17,2023-06-23,Second Class,CUS-8292,Customer_887,Consumer,South,Furniture,Chairs,Chairs_955,1934.38,3,0.3,-64.67
+ORD-72746,2022-11-10,2022-11-11,Same Day,CUS-2438,Customer_888,Home Office,Central,Office Supplies,Pens,Pens_678,325.79,6,0.2,92.11
+ORD-67733,2025-01-06,2025-01-10,Standard Class,CUS-6236,Customer_889,Home Office,South,Office Supplies,Pens,Pens_668,411.7,8,0.0,50.41
+ORD-54657,2025-03-16,2025-03-18,First Class,CUS-6692,Customer_890,Consumer,Central,Office Supplies,Paper,Paper_313,173.37,3,0.0,40.14
+ORD-34164,2025-03-04,2025-03-08,First Class,CUS-2063,Customer_891,Consumer,West,Office Supplies,Pens,Pens_918,369.2,6,0.25,49.46
+ORD-16734,2024-12-22,2024-12-25,Standard Class,CUS-9882,Customer_892,Corporate,East,Furniture,Chairs,Chairs_252,1632.88,3,0.15,523.49
+ORD-43092,2024-12-15,2024-12-16,Standard Class,CUS-5757,Customer_893,Consumer,West,Furniture,Chairs,Chairs_447,2400.84,1,0.2,119.58
+ORD-72616,2025-07-16,2025-07-23,Same Day,CUS-5914,Customer_894,Home Office,East,Furniture,Tables,Tables_684,2972.58,5,0.3,-46.58
+ORD-24953,2024-02-12,2024-02-14,Same Day,CUS-3580,Customer_895,Consumer,East,Office Supplies,Storage,Storage_291,108.32,6,0.1,5.7
+ORD-18564,2025-05-20,2025-05-21,Second Class,CUS-3852,Customer_896,Corporate,East,Office Supplies,Paper,Paper_985,497.38,7,0.3,-1.66
+ORD-62521,2023-01-15,2023-01-18,Same Day,CUS-6922,Customer_897,Corporate,West,Furniture,Bookcases,Bookcases_826,360.46,6,0.3,4.39
+ORD-74454,2022-12-19,2022-12-22,First Class,CUS-9335,Customer_898,Corporate,East,Technology,Accessories,Accessories_523,61.47,1,0.3,8.56
+ORD-19710,2024-04-25,2024-04-26,First Class,CUS-4673,Customer_899,Corporate,West,Technology,Copiers,Copiers_998,268.6,5,0.1,31.13
+ORD-85631,2023-04-08,2023-04-11,Standard Class,CUS-2988,Customer_900,Corporate,South,Technology,Accessories,Accessories_562,1741.82,5,0.2,10.72
+ORD-92502,2023-10-22,2023-10-26,Same Day,CUS-4292,Customer_901,Consumer,Central,Furniture,Tables,Tables_637,1935.43,9,0.25,431.57
+ORD-99974,2023-10-03,2023-10-09,Second Class,CUS-3275,Customer_902,Consumer,Central,Furniture,Tables,Tables_214,300.19,2,0.3,17.91
+ORD-17026,2023-04-10,2023-04-15,First Class,CUS-4878,Customer_903,Consumer,East,Furniture,Chairs,Chairs_896,116.43,9,0.3,6.53
+ORD-29887,2023-05-17,2023-05-20,First Class,CUS-9094,Customer_904,Consumer,West,Technology,Phones,Phones_554,4688.6,4,0.25,308.25
+ORD-29555,2025-07-23,2025-07-29,Second Class,CUS-1430,Customer_905,Corporate,Central,Office Supplies,Paper,Paper_918,412.74,3,0.0,162.05
+ORD-83772,2023-01-10,2023-01-14,Second Class,CUS-6912,Customer_906,Home Office,West,Furniture,Tables,Tables_294,2446.63,2,0.15,186.03
+ORD-49824,2023-10-11,2023-10-16,First Class,CUS-7044,Customer_907,Consumer,West,Furniture,Furnishings,Furnishings_850,2664.83,10,0.2,718.1
+ORD-21164,2025-04-15,2025-04-17,First Class,CUS-8657,Customer_908,Home Office,East,Office Supplies,Pens,Pens_894,353.02,3,0.2,82.27
+ORD-42530,2023-02-25,2023-02-26,Second Class,CUS-3126,Customer_909,Consumer,Central,Furniture,Tables,Tables_887,402.77,9,0.0,49.52
+ORD-25525,2024-09-16,2024-09-18,First Class,CUS-2412,Customer_910,Consumer,East,Technology,Computers,Computers_310,2025.55,6,0.2,599.6
+ORD-83147,2023-12-02,2023-12-06,Standard Class,CUS-2077,Customer_911,Home Office,East,Office Supplies,Paper,Paper_570,364.34,6,0.15,38.77
+ORD-64548,2024-05-04,2024-05-10,Standard Class,CUS-6067,Customer_912,Corporate,Central,Furniture,Chairs,Chairs_104,912.97,5,0.1,72.65
+ORD-89471,2024-06-06,2024-06-09,Second Class,CUS-7523,Customer_913,Consumer,Central,Furniture,Chairs,Chairs_803,2093.48,5,0.1,625.52
+ORD-88135,2024-03-08,2024-03-09,Same Day,CUS-8842,Customer_914,Consumer,South,Office Supplies,Paper,Paper_441,22.0,6,0.3,3.56
+ORD-91057,2023-02-17,2023-02-21,Second Class,CUS-9612,Customer_915,Consumer,South,Furniture,Chairs,Chairs_205,987.8,2,0.15,207.6
+ORD-39581,2025-08-09,2025-08-11,Second Class,CUS-7730,Customer_916,Home Office,West,Office Supplies,Pens,Pens_123,279.07,9,0.1,27.01
+ORD-78494,2023-02-27,2023-03-02,Same Day,CUS-7708,Customer_917,Corporate,Central,Office Supplies,Pens,Pens_754,319.72,10,0.25,37.9
+ORD-59856,2022-11-15,2022-11-19,Same Day,CUS-2208,Customer_918,Home Office,South,Technology,Accessories,Accessories_305,2906.35,6,0.2,680.57
+ORD-69049,2023-05-06,2023-05-09,Same Day,CUS-3053,Customer_919,Home Office,West,Technology,Accessories,Accessories_383,3503.89,3,0.15,406.76
+ORD-68028,2025-07-18,2025-07-20,Standard Class,CUS-6194,Customer_920,Corporate,West,Office Supplies,Pens,Pens_891,12.98,1,0.25,0.89
+ORD-48974,2023-05-25,2023-05-26,First Class,CUS-2215,Customer_921,Home Office,West,Furniture,Chairs,Chairs_379,392.73,3,0.0,39.64
+ORD-87139,2024-01-05,2024-01-07,Standard Class,CUS-8372,Customer_922,Corporate,South,Technology,Computers,Computers_380,4351.27,9,0.25,118.67
+ORD-66207,2024-06-27,2024-06-28,First Class,CUS-8632,Customer_923,Consumer,Central,Technology,Phones,Phones_737,3424.66,5,0.0,1241.86
+ORD-50026,2025-07-04,2025-07-11,Standard Class,CUS-9476,Customer_924,Corporate,East,Office Supplies,Art,Art_204,65.34,6,0.0,15.19
+ORD-84531,2023-07-02,2023-07-05,First Class,CUS-6644,Customer_925,Consumer,West,Technology,Accessories,Accessories_662,4218.27,8,0.25,1140.07
+ORD-91399,2025-01-30,2025-02-03,Standard Class,CUS-3102,Customer_926,Home Office,South,Furniture,Bookcases,Bookcases_244,802.47,7,0.0,175.51
+ORD-17894,2025-08-05,2025-08-11,Same Day,CUS-3981,Customer_927,Home Office,South,Office Supplies,Pens,Pens_687,244.35,6,0.25,46.32
+ORD-89905,2024-05-03,2024-05-04,Second Class,CUS-3114,Customer_928,Consumer,East,Technology,Computers,Computers_172,768.72,3,0.2,65.02
+ORD-23006,2025-01-09,2025-01-11,Standard Class,CUS-8088,Customer_929,Home Office,East,Furniture,Bookcases,Bookcases_653,2159.32,2,0.2,235.67
+ORD-37235,2024-12-06,2024-12-10,First Class,CUS-9238,Customer_930,Corporate,South,Furniture,Chairs,Chairs_233,2033.88,4,0.0,319.76
+ORD-91987,2024-12-03,2024-12-05,Same Day,CUS-1907,Customer_931,Consumer,Central,Technology,Copiers,Copiers_791,1095.01,3,0.2,114.01
+ORD-37659,2025-05-08,2025-05-09,Standard Class,CUS-3034,Customer_932,Home Office,East,Technology,Phones,Phones_492,4323.83,9,0.3,493.66
+ORD-44687,2024-04-30,2024-05-04,Standard Class,CUS-9488,Customer_933,Consumer,South,Technology,Phones,Phones_536,2036.46,4,0.3,504.09
+ORD-96563,2025-06-17,2025-06-20,Same Day,CUS-3507,Customer_934,Corporate,East,Furniture,Tables,Tables_821,948.29,4,0.25,165.25
+ORD-20641,2024-02-14,2024-02-21,Standard Class,CUS-5982,Customer_935,Corporate,Central,Office Supplies,Art,Art_744,84.64,9,0.15,7.18
+ORD-30585,2024-05-11,2024-05-16,Second Class,CUS-3697,Customer_936,Home Office,West,Office Supplies,Storage,Storage_731,140.42,10,0.15,5.4
+ORD-41439,2023-03-14,2023-03-16,Standard Class,CUS-3653,Customer_937,Corporate,East,Furniture,Bookcases,Bookcases_440,163.88,9,0.15,10.31
+ORD-32782,2023-05-25,2023-05-26,Second Class,CUS-6286,Customer_938,Consumer,Central,Technology,Phones,Phones_873,2937.12,9,0.25,422.26
+ORD-82350,2024-10-12,2024-10-19,Second Class,CUS-4694,Customer_939,Corporate,South,Furniture,Tables,Tables_195,2542.47,9,0.0,837.87
+ORD-19838,2025-03-04,2025-03-11,Same Day,CUS-6669,Customer_940,Consumer,East,Office Supplies,Storage,Storage_199,279.0,2,0.25,71.74
+ORD-30517,2024-02-16,2024-02-21,Standard Class,CUS-9501,Customer_941,Consumer,East,Furniture,Bookcases,Bookcases_800,735.89,7,0.0,77.08
+ORD-10350,2023-03-12,2023-03-19,Same Day,CUS-5653,Customer_942,Corporate,South,Office Supplies,Storage,Storage_581,26.5,8,0.0,6.81
+ORD-63545,2025-01-08,2025-01-15,Standard Class,CUS-2292,Customer_943,Home Office,West,Technology,Computers,Computers_247,1112.41,2,0.3,101.52
+ORD-69048,2025-10-13,2025-10-17,Standard Class,CUS-5105,Customer_944,Corporate,South,Office Supplies,Pens,Pens_472,213.9,2,0.3,31.4
+ORD-87832,2025-07-07,2025-07-12,First Class,CUS-4216,Customer_945,Consumer,East,Furniture,Tables,Tables_816,2302.87,3,0.2,386.59
+ORD-71592,2024-03-04,2024-03-08,Standard Class,CUS-5496,Customer_946,Consumer,South,Office Supplies,Pens,Pens_907,102.04,1,0.1,26.13
+ORD-48175,2024-07-12,2024-07-13,Same Day,CUS-3050,Customer_947,Corporate,Central,Furniture,Furnishings,Furnishings_599,2187.4,8,0.1,541.22
+ORD-14278,2025-01-24,2025-01-31,Second Class,CUS-5961,Customer_948,Home Office,South,Technology,Phones,Phones_586,4341.32,6,0.2,152.4
+ORD-40340,2023-01-18,2023-01-23,Standard Class,CUS-9740,Customer_949,Home Office,East,Technology,Accessories,Accessories_590,2297.04,5,0.0,780.8
+ORD-47762,2025-10-01,2025-10-08,First Class,CUS-2530,Customer_950,Consumer,South,Furniture,Tables,Tables_389,2482.15,6,0.0,339.98
+ORD-47056,2023-09-05,2023-09-06,Same Day,CUS-9234,Customer_951,Consumer,West,Furniture,Tables,Tables_620,1708.51,3,0.2,358.03
+ORD-69510,2025-05-15,2025-05-17,Standard Class,CUS-3762,Customer_952,Home Office,South,Technology,Copiers,Copiers_937,3203.6,8,0.3,239.77
+ORD-19329,2023-10-16,2023-10-18,Same Day,CUS-3526,Customer_953,Corporate,West,Office Supplies,Paper,Paper_433,267.88,10,0.15,47.99
+ORD-40595,2023-12-07,2023-12-09,First Class,CUS-3804,Customer_954,Consumer,Central,Office Supplies,Paper,Paper_911,236.95,9,0.15,70.13
+ORD-44675,2023-02-03,2023-02-07,First Class,CUS-6531,Customer_955,Consumer,West,Furniture,Furnishings,Furnishings_510,780.49,6,0.25,188.85
+ORD-91927,2023-04-17,2023-04-23,Same Day,CUS-1674,Customer_956,Home Office,South,Office Supplies,Storage,Storage_344,158.57,3,0.3,30.98
+ORD-87304,2025-04-17,2025-04-19,Standard Class,CUS-1464,Customer_957,Corporate,East,Office Supplies,Binders,Binders_661,152.09,5,0.2,23.28
+ORD-96662,2023-09-06,2023-09-13,Second Class,CUS-2330,Customer_958,Home Office,West,Technology,Copiers,Copiers_493,2838.28,1,0.3,484.98
+ORD-35928,2024-04-19,2024-04-22,First Class,CUS-1744,Customer_959,Corporate,Central,Technology,Accessories,Accessories_313,643.77,2,0.2,99.06
+ORD-65723,2023-03-25,2023-03-26,Standard Class,CUS-5336,Customer_960,Corporate,West,Office Supplies,Art,Art_541,459.23,4,0.25,108.32
+ORD-25043,2025-01-10,2025-01-15,Standard Class,CUS-4453,Customer_961,Corporate,West,Furniture,Bookcases,Bookcases_657,2189.9,3,0.15,319.36
+ORD-81376,2025-01-29,2025-02-03,Second Class,CUS-7825,Customer_962,Consumer,West,Office Supplies,Binders,Binders_277,206.71,3,0.15,65.33
+ORD-39466,2024-09-05,2024-09-12,First Class,CUS-1496,Customer_963,Home Office,Central,Office Supplies,Paper,Paper_857,87.73,4,0.1,28.92
+ORD-94886,2024-05-26,2024-05-31,First Class,CUS-9159,Customer_964,Home Office,South,Office Supplies,Art,Art_956,442.18,5,0.1,120.49
+ORD-29528,2025-06-03,2025-06-10,Standard Class,CUS-9938,Customer_965,Corporate,West,Furniture,Chairs,Chairs_706,2488.96,3,0.1,333.08
+ORD-44816,2022-12-03,2022-12-10,Standard Class,CUS-5745,Customer_966,Consumer,West,Office Supplies,Storage,Storage_433,363.64,4,0.0,50.73
+ORD-28643,2025-10-13,2025-10-20,Second Class,CUS-5949,Customer_967,Consumer,East,Office Supplies,Paper,Paper_941,143.06,3,0.3,29.53
+ORD-19359,2025-03-16,2025-03-17,Second Class,CUS-8912,Customer_968,Home Office,Central,Furniture,Tables,Tables_415,1267.1,2,0.25,31.16
+ORD-17816,2025-03-05,2025-03-07,First Class,CUS-5012,Customer_969,Consumer,West,Furniture,Chairs,Chairs_712,397.97,7,0.15,111.94
+ORD-31747,2023-09-07,2023-09-12,Same Day,CUS-7653,Customer_970,Consumer,Central,Technology,Copiers,Copiers_435,985.75,2,0.3,95.84
+ORD-50319,2023-06-01,2023-06-02,First Class,CUS-5873,Customer_971,Corporate,West,Furniture,Chairs,Chairs_192,2370.75,2,0.0,526.23
+ORD-87993,2023-06-02,2023-06-09,Standard Class,CUS-8430,Customer_972,Consumer,South,Technology,Computers,Computers_694,3589.44,1,0.2,972.58
+ORD-84607,2024-06-15,2024-06-22,First Class,CUS-2195,Customer_973,Corporate,South,Office Supplies,Paper,Paper_875,300.81,8,0.25,46.97
+ORD-47828,2024-10-12,2024-10-16,Same Day,CUS-1981,Customer_974,Home Office,West,Technology,Computers,Computers_563,4483.85,7,0.0,1224.02
+ORD-67560,2024-05-01,2024-05-05,Second Class,CUS-3589,Customer_975,Consumer,South,Office Supplies,Pens,Pens_499,295.8,1,0.0,79.16
+ORD-26299,2025-07-29,2025-08-03,Same Day,CUS-8202,Customer_976,Home Office,West,Office Supplies,Art,Art_557,238.81,4,0.2,26.59
+ORD-71433,2025-07-03,2025-07-04,Same Day,CUS-7809,Customer_977,Home Office,South,Technology,Computers,Computers_797,1734.84,2,0.0,582.37
+ORD-49857,2023-10-26,2023-10-29,Same Day,CUS-8933,Customer_978,Consumer,East,Furniture,Bookcases,Bookcases_683,2827.3,1,0.0,497.15
+ORD-62757,2025-02-10,2025-02-12,Second Class,CUS-8609,Customer_979,Consumer,East,Office Supplies,Pens,Pens_545,50.53,9,0.1,16.76
+ORD-45683,2025-02-07,2025-02-08,Same Day,CUS-4342,Customer_980,Home Office,East,Office Supplies,Pens,Pens_191,466.13,10,0.3,101.71
+ORD-75597,2025-01-26,2025-01-29,Same Day,CUS-6573,Customer_981,Consumer,Central,Office Supplies,Paper,Paper_726,415.09,1,0.2,42.03
+ORD-80776,2024-03-08,2024-03-09,Same Day,CUS-3353,Customer_982,Corporate,Central,Office Supplies,Storage,Storage_967,73.67,8,0.2,16.12
+ORD-74722,2025-07-08,2025-07-11,Standard Class,CUS-6121,Customer_983,Corporate,East,Technology,Accessories,Accessories_163,2846.67,2,0.3,347.2
+ORD-67377,2024-12-09,2024-12-10,Same Day,CUS-6231,Customer_984,Consumer,Central,Furniture,Chairs,Chairs_100,2612.99,5,0.2,264.68
+ORD-20543,2024-09-29,2024-10-06,Second Class,CUS-6658,Customer_985,Home Office,South,Office Supplies,Art,Art_940,290.19,1,0.3,71.55
+ORD-88385,2024-07-20,2024-07-23,Same Day,CUS-7532,Customer_986,Consumer,West,Furniture,Chairs,Chairs_981,2730.88,2,0.3,-115.87
+ORD-15224,2024-06-04,2024-06-11,Same Day,CUS-3142,Customer_987,Consumer,West,Furniture,Chairs,Chairs_340,2834.65,5,0.25,143.98
+ORD-66626,2025-08-10,2025-08-17,Second Class,CUS-7070,Customer_988,Home Office,West,Furniture,Furnishings,Furnishings_740,1324.92,1,0.3,140.47
+ORD-52247,2023-05-28,2023-06-04,Same Day,CUS-9437,Customer_989,Home Office,East,Furniture,Furnishings,Furnishings_515,1194.21,2,0.2,187.0
+ORD-89129,2024-02-17,2024-02-19,Second Class,CUS-2739,Customer_990,Corporate,Central,Furniture,Furnishings,Furnishings_658,2815.33,2,0.15,567.8
+ORD-42816,2024-07-15,2024-07-21,Same Day,CUS-6228,Customer_991,Home Office,South,Technology,Computers,Computers_586,3391.94,10,0.25,680.09
+ORD-13390,2025-05-03,2025-05-10,Second Class,CUS-4960,Customer_992,Corporate,South,Technology,Computers,Computers_668,624.31,4,0.25,101.17
+ORD-21970,2024-08-26,2024-08-29,Same Day,CUS-8642,Customer_993,Home Office,East,Furniture,Bookcases,Bookcases_960,222.65,10,0.15,45.66
+ORD-40005,2025-03-10,2025-03-15,Same Day,CUS-3007,Customer_994,Consumer,South,Furniture,Tables,Tables_395,1737.42,4,0.3,-58.98
+ORD-98381,2023-05-09,2023-05-11,Standard Class,CUS-5382,Customer_995,Corporate,South,Office Supplies,Binders,Binders_237,465.78,3,0.3,29.33
+ORD-85392,2025-04-30,2025-05-02,Standard Class,CUS-8366,Customer_996,Corporate,South,Technology,Phones,Phones_763,4229.03,6,0.3,82.96
+ORD-86955,2025-02-18,2025-02-24,Same Day,CUS-5061,Customer_997,Corporate,South,Technology,Computers,Computers_838,3395.45,1,0.3,100.54
+ORD-12719,2025-07-27,2025-08-03,Same Day,CUS-3308,Customer_998,Consumer,Central,Furniture,Furnishings,Furnishings_239,503.44,2,0.2,83.72
+ORD-98117,2025-09-30,2025-10-07,First Class,CUS-2586,Customer_999,Consumer,South,Technology,Computers,Computers_757,1308.45,3,0.15,111.02
